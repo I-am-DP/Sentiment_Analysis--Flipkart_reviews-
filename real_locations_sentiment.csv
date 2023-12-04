@@ -1,0 +1,2483 @@
+location,sentiment,overall_sentiment_score
+Abdu Rahiman Nagar,Positive,0.6249
+Abdul Lat,Neutral,0.0
+Abohar,Positive,0.5707
+Achabal,Negative,-0.4753
+Achampet,Positive,0.5719
+Achanta,Positive,0.47669999999999996
+Adilabad,Positive,0.5859
+Adilabad District,Positive,0.49269999999999997
+Adoni,Negative,-0.019574999999999954
+Adra,Negative,0.0743
+Afzalgarh,Positive,0.50615
+Agartala,Negative,-0.006258333333333328
+Agra,Negative,-0.0343388888888889
+Agra District,Negative,-0.016449999999999965
+Agra Division,Positive,0.32595
+Ahmadabad,Positive,0.6114
+Ahmadabad District,Neutral,0.2852807692307692
+Ahmadnagar,Negative,0.03270000000000001
+Ahmadnagar District,Neutral,0.229275
+Ahmadpur,Positive,0.39732
+Ahmedabad,Negative,-0.017746212121212118
+Ahmedgarh,Neutral,0.0
+Aiho,Positive,0.598425
+Aimanam,Positive,0.22630000000000003
+Ajmer,Positive,0.62015
+Ajmer District,Positive,0.6249
+Akaya,Neutral,0.0
+Akbarpur,Positive,0.6012000000000001
+Akhnoor,Negative,0.25925
+Akluj,Positive,0.57678
+Akola,Neutral,0.3066642857142857
+Akola District,Positive,0.6249
+Akot,Positive,0.49269999999999997
+Aland,Neutral,0.0
+Alangudi,Positive,0.5719
+Alappuzha,Neutral,0.256875
+Alappuzha District,Neutral,0.1977875
+Alathur,Neutral,0.21075
+Aliganj,Positive,0.508475
+Aligarh,Negative,0.022736666666666655
+Aligarh District,Neutral,0.0
+Alipurduar,Positive,0.40134444444444445
+Alipurduar District,Positive,0.4889666666666666
+Alipurduar Rly Jnc,Neutral,0.0
+Allahabad,Negative,-0.008907692307692302
+Allahabad District,Negative,0.04558095238095237
+Aluva,Negative,-0.5256
+Alwar,Negative,0.026099999999999995
+Alwar District,Negative,0.031066666666666687
+Alwarthirunagiri,Negative,-0.1511
+Amalapuram,Negative,-0.048850000000000005
+Amaravathi,Positive,0.44040000000000007
+Amaravati,Negative,-0.01814999999999997
+Amarpatan,Positive,0.6249
+Amarshi Kasba,Neutral,0.0
+Ambad,Positive,0.22630000000000003
+Ambah,Positive,0.5508000000000001
+Ambala,Neutral,0.1843125
+Ambala Division,Positive,0.22630000000000003
+Ambaliyasan,Positive,0.5719
+Amballur Thrissur District,Negative,-0.6588
+Ambarnath,Negative,-0.035324999999999995
+Ambedkar Nagar,Neutral,0.22455
+Ambedkar Nagar District,Neutral,0.23878823529411766
+Ambejogai,Positive,0.4215
+Ambepur,Positive,0.5243
+Ambur,Negative,0.07346666666666671
+Amethi Sultanpur District,Negative,-0.4767
+Amguri,Positive,0.6239
+Amila,Positive,0.22630000000000003
+Amilo,Positive,0.46460000000000007
+Amloh,Positive,0.4927
+Ammainaickanur,Positive,0.7269
+Amravati,Neutral,0.3132333333333333
+Amravati District,Positive,0.48405
+Amreli,Positive,0.3252
+Amreli District,Neutral,0.26363333333333333
+Amritsar,Negative,0.007741176470588251
+Amritsar District,Positive,0.7269
+Amroha,Neutral,0.0
+Amta,Negative,-0.4215
+Anand,Negative,0.028575000000000017
+Anand District,Neutral,0.32295
+Anandapur,Positive,0.44040000000000007
+Anandpur Sahib,Positive,0.5719
+Anantapur,Neutral,0.25571470588235296
+Anantapur District,Positive,0.49029999999999996
+Andal,Positive,0.4215
+Angul,Neutral,0.0
+Angul District,Negative,-0.6588
+Anjangaon,Positive,0.6249
+Anjar,Positive,0.5404666666666667
+Anjuna,Neutral,0.0
+Ankleshwar,Neutral,0.24634999999999999
+Annamalai Nagar,Positive,0.22630000000000003
+Annur,Positive,0.6237
+Anthiyur,Positive,0.4404
+Antu,Positive,0.5719
+Anugul,Positive,0.5713
+Anugul District,Neutral,0.291825
+Anuppur,Positive,0.6249
+Aonla,Positive,0.4767
+Appakudal,Positive,0.4404
+Ara,Positive,0.4404
+Arakonam,Neutral,0.31245
+Arambag,Neutral,0.3057
+Arang,Neutral,0.0
+Aranghata,Positive,0.636
+Arani Tiruvannamalai District,Negative,-0.6588
+Aranthangi,Positive,0.4404
+Araria,Negative,0.029383333333333317
+Araria District,Positive,0.6249
+Arasur,Positive,0.5707
+Areraj,Positive,0.5424625
+Arimalam,Positive,0.2716
+Ariyalur,Positive,0.61095
+Ariyalur District,Neutral,0.0
+Arookutty,Positive,0.6249
+Arrah,Neutral,0.24363
+Aruppukkottai,Positive,0.6499
+Arvi,Positive,0.4404
+Arwal,Positive,0.4256
+Arwal District,Positive,0.22630000000000003
+Asansol,Negative,-0.035003703703703724
+Asansol Mc,Positive,0.2263
+Asarganj,Positive,0.62075
+Ashoknagar District,Positive,0.5719
+Asifabad,Positive,0.5719
+Athagad,Negative,-0.4334
+Athiyannur,Positive,0.6239
+Athmallik,Positive,0.44040000000000007
+Atraulia,Positive,0.33335000000000004
+Attingal,Neutral,0.0
+Aurad,Positive,0.6114
+Auraiya,Positive,0.6249
+Auraiya District,Neutral,0.2613166666666667
+Aurangabad,Negative,0.11572413793103448
+Aurangabad District,Negative,0.050772549019607816
+Aurangabad Division,Positive,0.5859
+Ausa,Positive,0.6239
+Avalpoondurai,Positive,0.6696
+Avanashi,Positive,0.5719
+Ayodhya,Neutral,0.0
+Ayodhya Division,Neutral,0.31245
+Azamgarh,Neutral,0.3041
+Azamgarh District,Neutral,0.23901818181818182
+Babrala,Positive,0.5859
+Bachhraon,Positive,0.44040000000000007
+Badamba,Positive,0.5707
+Badarpur Rly Town,Positive,0.5719
+Baddi,Negative,-0.07741666666666665
+Badgam District,Positive,0.44040000000000007
+Badlapur,Positive,0.3182
+Badnagar,Positive,0.5719
+Bagaha,Positive,0.6249
+Bagalkot District,Neutral,0.0
+Bagepalli,Positive,0.29136666666666666
+Bageshwar District,Positive,0.6239
+Baghmara,Positive,0.4404
+Baghpat District,Positive,0.6114
+Bagnan,Neutral,0.29295
+Bagula,Positive,0.486525
+Bah,Positive,0.4404
+Bahadurgarh,Negative,-0.01979444444444443
+Baharagora,Negative,-0.4215
+Bahirgram,Neutral,0.0
+Bahraich,Neutral,0.31110000000000004
+Bahraich District,Positive,0.5719
+Baidyabati,Negative,-0.46313999999999994
+Bakewar,Positive,0.47669999999999996
+Bakhtiarpur,Positive,0.47669999999999996
+Baksa District,Positive,0.5291444444444444
+Bakshi Ka Talab,Positive,0.476375
+Balaghat,Negative,0.11728333333333332
+Balangir,Negative,0.06574999999999998
+Balangir District,Neutral,0.23835
+Balapallam,Negative,-0.4215
+Balapur,Neutral,0.11315
+Balarampota,Positive,0.2263
+Balasore,Neutral,0.1358
+Baldeogarh,Negative,-0.1511
+Baleshwar,Negative,-0.029013333333333335
+Baleshwar District,Negative,0.025883333333333314
+Balichak,Positive,0.4404
+Ballari,Neutral,0.11315
+Ballarpur,Negative,-0.3412
+Ballia,Negative,0.03546250000000001
+Ballia District,Neutral,0.2597083333333333
+Bally,Negative,0.07316666666666666
+Balod,Positive,0.3182
+Balotra,Positive,0.2751
+Balrampur District,Positive,0.4760666666666667
+Balugaon,Negative,-0.0708375
+Baluhati,Positive,0.4215
+Balurghat,Negative,-0.034050000000000025
+Bamangram,Positive,0.4404
+Bamanpukur,Negative,-0.12699999999999997
+Bambolim,Positive,0.6696
+Bamhani,Positive,0.5719
+Banapur,Positive,0.5719
+Banarhat Tea Garden,Negative,-0.10369999999999999
+Banas Kantha District,Positive,0.2263
+Banaskantha,Neutral,0.0
+Banda,Positive,0.658175
+Bandhail,Negative,-0.6588
+Bangalore,Negative,0.024216304347826106
+Bangalore Division,Negative,-0.035985185185185196
+Bangalore Urban,Negative,-0.01858333333333337
+Bangaon,Positive,0.44040000000000007
+Banka,Neutral,0.0
+Banka District,Neutral,0.24436666666666668
+Bankra,Positive,0.3559
+Bankura,Negative,-0.013744117647058796
+Bankura District,Negative,0.03454080459770115
+Banmankhi Bazar,Positive,0.6696
+Bansberia,Negative,0.06741428571428568
+Bansda,Positive,0.5859
+Bansi,Positive,0.5859
+Banumukkala,Neutral,0.0
+Bapatla,Positive,0.6239
+Bara,Negative,-0.4767
+Bara Banki District,Neutral,0.262625
+Bara Jumla,Negative,0.0489
+Barabanki,Neutral,0.26403
+Barabazar,Positive,0.5719
+Baramati,Positive,0.43567500000000003
+Baramulla,Negative,-0.5256
+Baran,Neutral,0.22020000000000003
+Barasat,Negative,-0.08332272727272733
+Barauli,Positive,0.4986
+Barauni,Negative,-0.07441999999999999
+Baraut,Neutral,0.2247375
+Barbil,Positive,0.46384285714285717
+Bardhaman,Neutral,0.25615714285714286
+Bareilly,Negative,0.11855238095238092
+Bareja,Neutral,0.0
+Barelliy,Positive,0.636
+Bargarh District,Negative,-0.07121999999999998
+Bargur,Neutral,0.0
+Barh,Positive,0.6249
+Barhalganj,Positive,0.47669999999999996
+Barharwa,Negative,-0.5423
+Baripada,Neutral,0.2787071428571429
+Baripara,Positive,0.5719
+Barjora,Negative,-0.5423
+Barmer,Neutral,0.0
+Barpeta District,Negative,0.0408
+Barrackpore,Neutral,0.25615
+Barrackpur Cantonment Civil Township,Neutral,0.0
+Barua Sagar,Positive,0.44040000000000007
+Baruipur,Positive,0.3958
+Basantapur,Positive,0.4404
+Basanti,Neutral,0.2377
+Basavakalyan,Negative,-0.23765
+Basirhat,Negative,0.1846375
+Basoda,Neutral,0.318
+Basti,Negative,0.008516666666666653
+Basti District,Neutral,0.277375
+Basti Division,Neutral,0.2202
+Basukinath,Positive,0.5859
+Bathinda,Positive,0.574725
+Batika,Positive,0.4754
+Baudh District,Negative,0.01814999999999997
+Bawal,Positive,0.5182875
+Bawani Khera,Positive,0.49227999999999994
+Bayarsing,Neutral,0.0
+Bazpur,Positive,0.35085
+Beawar,Neutral,0.23834999999999998
+Beed,Positive,0.5707
+Begusarai,Negative,-0.02713777777777776
+Begusarai District,Neutral,0.23676
+Begusari,Positive,0.636
+Behror,Positive,0.3252
+Bela Pratapgarh,Positive,0.4215
+Belagavi,Neutral,0.11315
+Beldanga,Negative,0.1628
+Belgaum,Positive,0.4754
+Belgaum District,Neutral,0.23527272727272727
+Bellampalle,Positive,0.4404
+Bellary,Neutral,0.31245
+Bellary District,Neutral,0.28595
+Belonia,Positive,0.4404
+Belpahar,Neutral,0.0
+Bengalore,Negative,-0.4753
+Bengaluru,Negative,0.02335288109161791
+Bengaluru Rural District,Negative,0.02854000000000001
+Benipur,Positive,0.7269
+Berhait Bazar,Positive,0.7269
+Berhampore,Negative,0.04636862745098036
+Berhampur,Positive,0.6041857142857143
+Bermo,Positive,0.6696
+Bethamcherla,Neutral,0.0
+Betia,Positive,0.39171999999999996
+Bettiah,Neutral,0.26728999999999997
+Betul,Negative,-0.09105000000000005
+Betul District,Neutral,0.0
+Beypore,Negative,-0.5423
+Bhabnan Bazar,Positive,0.2263
+Bhadohi,Neutral,0.2107083333333333
+Bhadrachalam,Neutral,0.0
+Bhadrak,Neutral,0.241575
+Bhadrak District,Negative,0.009339393939393944
+Bhadrari Kothagudem District,Negative,-0.06473333333333332
+Bhadravati,Neutral,0.0
+Bhadreswar,Positive,0.47669999999999996
+Bhagalpur,Negative,0.013021428571428554
+Bhagalpur District,Negative,-0.012181249999999996
+Bhagalpur Division,Positive,0.2716
+Bhagwanpur,Positive,0.6249
+Bhagwant Nagar,Neutral,0.0
+Bhakali,Negative,-0.27115
+Bhandara District,Neutral,0.2700666666666667
+Bharatpur,Positive,0.3849857142857143
+Bharatpur District,Positive,0.5978
+Bhargain,Positive,0.5859
+Bharthana,Positive,0.4767
+Bharuch,Positive,0.4404
+Bharuch District,Neutral,0.296075
+Bhatpara,Positive,0.50615
+Bhavnagar,Negative,-0.04719999999999999
+Bhavnagar District,Positive,0.5859
+Bhawanigarh,Positive,0.6114
+Bhilai,Positive,0.5715083333333334
+Bhilwara,Positive,0.52575
+Bhimavaram,Positive,0.5599999999999999
+Bhind,Negative,-0.032800000000000024
+Bhiwadi,Positive,0.6419
+Bhiwandi,Positive,0.5203047619047618
+Bhiwani,Positive,0.43545
+Bhiwani District,Neutral,0.2366375
+Bhojpur,Positive,0.2263
+Bhojpur District,Positive,0.3811666666666667
+Bhokarhedi,Positive,0.6249
+Bhopal,Negative,0.0008135658914728746
+Bhuban,Positive,0.2716
+Bhubaneshwar,Neutral,0.0
+Bhubaneswar,Negative,-0.005907828282828283
+Bhupalpalle,Neutral,0.0
+Bhusawal,Neutral,0.0
+Bid,Positive,0.5859
+Bid District,Negative,-0.33835
+Bidadi Industrial Area,Positive,0.6239
+Bidar,Negative,0.0702166666666667
+Bidar District,Positive,0.5978
+Bidhan Nagar,Positive,0.5209
+Biharsharif,Negative,0.02544444444444442
+Bihat Begusarai District,Neutral,0.0
+Bihta Begusarai District,Neutral,0.0
+Bijapur District,Negative,-0.6696
+Bijni,Neutral,0.0
+Bijnor,Positive,0.4892571428571429
+Bijnor District,Positive,0.45492
+Bijuri,Neutral,0.0
+Bikaner,Positive,0.33335000000000004
+Bikramganj,Neutral,0.22020000000000003
+Bilandapur,Neutral,0.0
+Bilaspur,Positive,0.558775
+Bilaspur District,Negative,0.19944166666666668
+Bilaspur Gautam Buddha Nagar District,Negative,-0.5256
+Bilaspur Rampur District,Positive,0.6249
+Bilgram,Positive,0.5719
+Bilhaur,Neutral,0.0
+Bilimora,Positive,0.6249
+Bilsanda,Positive,0.22630000000000003
+Binnaguri,Positive,0.5719
+Birbhum,Positive,0.5057
+Birbhum District,Negative,-0.027618939393939373
+Birodhi,Positive,0.539025
+Birpara Tea Garden,Positive,0.4404
+Birpur,Positive,0.4404
+Bisalpur,Positive,0.6249
+Biswanath,Positive,0.22630000000000003
+Biswanath Chariali,Positive,0.4215
+Biswanath District,Positive,0.5747857142857143
+Bobbili,Positive,0.4404
+Bodinayakanur,Positive,0.5719
+Boisar,Negative,-0.04259999999999997
+Bokakhat,Positive,0.47669999999999996
+Bokaro District,Positive,0.4404
+Bokaro Steel City,Neutral,0.2593477272727273
+Bokaro Thermal Township,Positive,0.5859
+Bolpur,Negative,-0.016271111111111108
+Bonaigarh,Positive,0.6472
+Bongaigaon,Negative,-0.06602499999999997
+Bongaigaon District,Positive,0.27225
+Bora Gagangohalia,Positive,0.6451749999999999
+Botad,Positive,0.4215
+Boudh District,Negative,-0.6696
+Brahmabarada,Positive,0.6249
+Brahmapur,Neutral,0.0
+Brajarajnagar,Positive,0.50286
+Brajrajnagar,Positive,0.2716
+Budaun,Negative,0.095475
+Budaun District,Positive,0.4754
+Budge Budge,Positive,0.4767
+Budhana,Positive,0.4767
+Buita,Neutral,0.0
+Bulandshahr,Positive,0.34104
+Bulandshahr District,Positive,0.4124666666666667
+Buldana,Positive,0.22630000000000003
+Buldana District,Neutral,0.258225
+Buldhana,Positive,0.6696
+Bundi,Positive,0.578025
+Bundi District,Positive,0.5859
+Burdwan,Negative,-0.009591249999999977
+Burhanpur District,Neutral,0.0
+Buxar,Neutral,0.20171999999999998
+Buxar District,Neutral,0.26182272727272726
+Byadgi,Positive,0.6114
+Byasanagar,Neutral,0.3057
+Cachar,Positive,0.4767
+Cachar District,Neutral,0.25534166666666663
+Calangute,Positive,0.3982
+Calcutta,Positive,0.6696
+Candolim,Neutral,0.1358
+Central Delhi,Neutral,0.0
+Central District,Positive,0.47669999999999996
+Central Division,Negative,0.0059666666666666575
+Chabua,Negative,-0.5256
+Chakan,Negative,-0.015233333333333321
+Chakdah,Neutral,0.0
+Chakdaha,Negative,0.083175
+Chakia,Positive,0.5719
+Chakmano,Negative,-0.09644999999999998
+Chaksu,Negative,-0.6588
+Chala,Negative,-0.4215
+Chalakudy,Neutral,0.0
+Chalisgaon,Positive,0.6249
+Challakere,Positive,0.5326500000000001
+Chamarajanagar District,Negative,-0.1511
+Chamba,Positive,0.6249
+Chamba District,Negative,-0.5423
+Chamoli District,Positive,0.44040000000000007
+Champa,Positive,0.6249
+Champua,Positive,0.4389285714285714
+Chanari,Positive,0.5707
+Chanasma,Positive,0.6114
+Chanchal,Positive,0.5135000000000001
+Chandannagar,Neutral,0.3057
+Chandapur,Positive,0.6249
+Chandauli,Positive,0.5561999999999999
+Chandausi,Positive,0.4806
+Chandgad,Negative,-0.4215
+Chandigarh,Positive,0.4404
+Chandil,Positive,0.4404
+Chandili,Positive,0.44040000000000007
+Chandpur,Positive,0.2263
+Chandpur South Twenty Four Parganas District,Positive,0.636
+Chandrapur,Negative,-0.06270769230769231
+Chandrapur District,Negative,-0.028245454545454574
+Chandrapura,Positive,0.6860999999999999
+Chandurbazar,Positive,0.5719
+Changlang District,Positive,0.2716
+Changsari,Positive,0.47669999999999996
+Channagiri,Positive,0.2263
+Channarayapatna,Positive,0.47669999999999996
+Chapra,Neutral,0.235925
+Charaideo District,Neutral,0.22102999999999998
+Charkhari,Positive,0.5859
+Charkhi Dadri District,Positive,0.6249
+Chatra District,Positive,0.6249
+Chatrapur,Negative,-0.6588
+Chavakkad,Positive,0.22630000000000003
+Chebrolu,Positive,0.5719
+Chelakkara,Positive,0.3252
+Chelannur,Positive,0.46655
+Chemnad,Positive,0.6249
+Chengalpattu,Positive,0.49269999999999997
+Chengalpattu District,Negative,0.028678571428571442
+Chengamanad,Neutral,0.36345
+Chennai,Negative,0.011669129777092798
+Chennimalai,Negative,-0.5423
+Cherthala,Positive,0.35085
+Cherukavu,Positive,0.636
+Cheruthazham,Neutral,0.0
+Chettipalayam Coimbatore District,Positive,0.4767
+Chettithangal,Positive,0.5859
+Chhabra,Positive,0.4404
+Chhapra,Positive,0.6114
+Chhatari,Positive,0.6249
+Chhatarpur,Positive,0.4767
+Chhatarpur District,Positive,0.45461999999999997
+Chhatrapati Shahuji Maharaj Ngr District,Negative,0.023374074074074103
+Chhatrapur,Positive,0.4465
+Chhindwara,Positive,0.4533857142857142
+Chidambaram,Positive,0.53215
+Chikhali,Neutral,0.0
+Chikhli,Negative,-0.5256
+Chikkaballapura District,Positive,0.6249
+Chikkamagaluru,Positive,0.6696
+Chikmagalur District,Positive,0.5719
+Chikodi,Positive,0.5859
+Chinnachitakunta,Negative,-0.4404
+Chinnampalayam,Neutral,0.0
+Chinnasalem,Neutral,0.0
+Chinsurah,Positive,0.4754
+Chirala,Positive,0.3239
+Chirgaon,Positive,0.5859
+Chitbara Gaon,Positive,0.5719
+Chithode,Neutral,0.0
+Chitradurga,Neutral,0.0
+Chitrakoot District,Positive,0.5707
+Chittaranjan,Positive,0.22630000000000003
+Chittaurgarh District,Positive,0.6249
+Chittoor,Negative,0.01110833333333335
+Chittoor District,Neutral,0.19723409090909091
+Chockli,Positive,0.5719
+Chogawan,Neutral,0.0
+Chomu,Neutral,0.0
+Choornikkara,Neutral,0.0
+Chotila,Neutral,0.0
+Choudwar,Positive,0.4361
+Choutuppal,Neutral,0.0
+Chowwara,Positive,0.5859
+Chunar,Positive,0.44040000000000007
+Churu,Positive,0.6249
+Coimbatore,Negative,0.005735833333333347
+Coimbatore District,Positive,0.53976
+Colonelganj,Positive,0.2716
+Contai,Positive,0.3461666666666667
+Cooch Behar,Positive,0.4754
+Coochbehar,Positive,0.2716
+Corbett,Positive,0.44825000000000004
+Corlim,Positive,0.4404
+Cuddalore,Neutral,0.1358
+Cuddalore District,Positive,0.26586
+Cuddapah,Negative,0.009866666666666654
+Cuncolim,Negative,-0.5
+Cuttack,Negative,0.014065517241379296
+Cuttack District,Neutral,0.21596875
+Dabhoi,Neutral,0.0
+Dabra,Neutral,0.0
+Dadhel,Positive,0.5719
+Dagshai,Negative,-0.6588
+Dahej Sir,Positive,0.4404
+Dahod,Neutral,0.0
+Dakor,Positive,0.5719
+Dakshin Dinajpur District,Neutral,0.18832777777777776
+Dakshin Khagrabari,Positive,0.6114
+Dakshin Odlabari,Neutral,0.0
+Dakshina Kannada District,Negative,0.0743
+Dalgaon,Positive,0.44040000000000007
+Dalkhola,Neutral,0.26197499999999996
+Dalmau,Positive,0.6239
+Dalsinghsarai,Positive,0.5487124999999999
+Daltonganj,Neutral,0.26288333333333336
+Daman,Neutral,0.0
+Danga,Neutral,0.0
+Danguwapasi,Positive,0.6696
+Darbhanga,Negative,-0.04187916666666667
+Darbhanga District,Negative,0.08312291666666666
+Darbhanga Division,Positive,0.6249
+Daringbadi,Positive,0.2263
+Darjeeling,Neutral,0.29295
+Darjiling,Neutral,0.0
+Darjiling District,Positive,0.6242333333333333
+Darrang District,Neutral,0.28595
+Darwha,Positive,0.5719
+Daryapur Banosa,Positive,0.47669999999999996
+Dataganj,Positive,0.6114
+Daudnagar,Neutral,0.0
+Daund,Neutral,0.0
+Dausa,Neutral,0.0
+Dausa District,Positive,0.6114
+Davanagere,Positive,0.6249
+Davanagere District,Positive,0.5435399999999999
+Davangere,Positive,0.3182
+Davorlim,Positive,0.4404
+Debagarh,Positive,0.2263
+Debagarh District,Positive,0.5243
+Debipur,Neutral,0.29295
+Dediapada,Positive,0.24139999999999998
+Deeg,Neutral,0.0
+Dehgam,Positive,0.2716
+Dehradun,Neutral,0.2858555555555556
+Dehradun District,Positive,0.5859
+Dehri,Neutral,0.2905214285714286
+Delhi,Negative,0.004475000000000007
+Delhi Division,Negative,0.005954166666666705
+Deoghar,Positive,0.4767
+Deolali Pravara,Positive,0.636
+Deoria,Negative,-0.009915624999999983
+Deoria District,Neutral,0.264125
+Dera Bassi,Positive,0.6696
+Desaiganj,Positive,0.4404
+Devadurga,Positive,0.4404
+Devakottai,Neutral,0.11315000000000001
+Devanahalli,Positive,0.2716
+Devbhoomi Dwarka District,Neutral,0.29295
+Devinagar,Neutral,0.0
+Dewas,Neutral,0.23493333333333333
+Dewas District,Positive,0.44040000000000007
+Dhalai District,Negative,-0.15799999999999997
+Dhamanagar,Positive,0.6239
+Dhamangaon,Neutral,0.0
+Dhampur,Positive,0.6249
+Dhamtari,Positive,0.3182
+Dhamua,Positive,0.5859
+Dhanbad,Negative,-0.008386666666666653
+Dhanbad District,Negative,-0.025878571428571417
+Dhanwar,Positive,0.58785
+Dhar,Positive,0.32389999999999997
+Dharampur,Neutral,0.0
+Dharangaon,Neutral,0.0
+Dharapur,Positive,0.4404
+Dharapuram,Positive,0.2263
+Dharmanagar,Negative,0.023150000000000004
+Dharmapuri,Neutral,0.318
+Dharmapuri District,Negative,-0.496025
+Dharmavaram,Positive,0.5954625
+Dharuhera,Positive,0.41292
+Dharur,Positive,0.4767
+Dharwad,Neutral,0.22885499999999998
+Dhekiajuli,Negative,-0.4753
+Dhemaji District,Positive,0.5455111111111112
+Dhenkanal,Positive,0.57142
+Dhenkanal District,Neutral,0.2159125
+Dhing,Positive,0.6053999999999999
+Dholka,Neutral,0.0
+Dhone,Positive,0.49269999999999997
+Dhubri,Neutral,0.2202
+Dhule,Positive,0.6319666666666667
+Dhule District,Positive,0.5719
+Dhulian,Positive,0.4404
+Dhupguri,Positive,0.6015250000000001
+Dhuri,Negative,-0.4767
+Diamond Harbour,Positive,0.5792666666666667
+Dibiyapur,Positive,0.6249
+Dibrugarh,Positive,0.53208
+Dibrugarh District,Positive,0.4204777777777778
+Didwana,Positive,0.636
+Digboi,Positive,0.636
+Digha Purba Medinipur District,Positive,0.44040000000000007
+Dighwara,Negative,-0.6588
+Dima Hasao District,Negative,-0.4753
+Dimapur,Neutral,0.258465
+Dinabandhunagar,Positive,0.5719
+Dindigul,Positive,0.52745
+Dindigul District,Positive,0.5617428571428571
+Dindori,Neutral,0.0
+Dinhata,Positive,0.549525
+District Kushinagar,Positive,0.5719
+Dogachhia Barddhaman District,Neutral,0.21075
+Doghat,Negative,-0.6696
+Doiwala,Negative,-0.22164999999999999
+Dokmoka,Positive,0.22630000000000003
+Dombivli,Positive,0.5719
+Dongar Parasia,Positive,0.4404
+Dongargaon,Positive,0.4754
+Dongargarh,Positive,0.4404
+Donkamokam,Neutral,0.0
+Dostpur,Positive,0.6249
+Dubrajpur,Positive,0.47714
+Dumka,Neutral,0.20522222222222222
+Dumka District,Negative,-0.4228
+Dumraon,Negative,0.0408
+Dungargarh,Neutral,0.0
+Dungarpur,Positive,0.22630000000000003
+Durg,Neutral,0.26791875
+Durg District,Positive,0.6696
+Durg Division,Neutral,0.0
+Durgapur,Neutral,0.267766
+Durllabhganj,Positive,0.6239
+Duru Verinag,Negative,-0.6588
+East Delhi,Neutral,0.292
+East District,Negative,-0.02839999999999998
+East Division,Positive,0.2716
+East Godavari,Negative,0.04707500000000001
+East Godavari District,Neutral,0.25119435483870967
+East Karbi Anglong District,Positive,0.5021
+Edlapadu,Positive,0.6249
+Egarkunr,Positive,0.44040000000000007
+Ekangar Sarai,Positive,0.3182
+Elayirampannai,Negative,-0.4753
+Ellenabad,Positive,0.4404
+Ellora,Positive,0.2716
+Eluru,Neutral,0.0
+English Bazar,Neutral,0.1934375
+Eravattur,Neutral,0.0
+Ernakulam,Negative,0.01165555555555555
+Ernakulam District,Negative,-0.12231666666666666
+Erode,Negative,0.06402142857142856
+Erode District,Neutral,0.28874999999999995
+Erumaipatti,Positive,0.4404
+Etah,Positive,0.51315
+Etah District,Positive,0.6114
+Etawah,Negative,0.04197500000000004
+Etawah District,Positive,0.3182
+Faizabad,Neutral,0.30673636363636364
+Faizabad District,Negative,-0.250575
+Falakata,Positive,0.44040000000000007
+Farakka Barrage Township,Positive,0.46897500000000003
+Faridabad,Negative,-0.0007102272727272929
+Faridabad Division,Positive,0.49269999999999997
+Faridpur Bareilly District,Positive,0.6239
+Farrukhabad,Neutral,0.29295
+Farrukhabad District,Positive,0.59185
+Fatehabad,Negative,0.11459999999999995
+Fatehabad District,Negative,-0.6696
+Fatehgarh Sahib District,Positive,0.4404
+Fatehpur Bara Banki District,Positive,0.22630000000000003
+Fatehpur District,Positive,0.4215
+Fatehpur Fatehpur District,Positive,0.4215
+Fatwah,Neutral,0.0
+Fazilka District,Neutral,0.0
+Firozabad,Neutral,0.203825
+Firozabad District,Negative,-0.4753
+Firozpur,Negative,0.05520000000000003
+Forbesganj,Neutral,0.11315
+Gadag,Positive,0.5719
+Gadag District,Positive,0.6696
+Gadarwara,Positive,0.4404
+Gadchiroli,Neutral,0.0
+Gadwal,Positive,0.5359
+Gairkata,Positive,0.4404
+Gajapathinagaram,Negative,-0.1511
+Gajapati District,Positive,0.4404
+Ganaur,Neutral,0.31245
+Gandhidham,Neutral,0.2505
+Gandhigram,Positive,0.6114
+Gandhinagar,Negative,-0.030222222222222206
+Gandhinagar District,Neutral,0.31245
+Gangaikondan Tirunelveli District,Positive,0.5719
+Ganganagar,Positive,0.5983999999999999
+Gangarampur,Positive,0.4347
+Gangawati,Negative,-0.5423
+Gangnapur,Neutral,0.0
+Gangtok,Positive,0.47297500000000003
+Ganguvarpatti,Negative,-0.5256
+Ganj Dundwara,Neutral,0.0
+Ganjam,Positive,0.49269999999999997
+Ganjam District,Negative,-0.012288235294117619
+Ganjimutt,Positive,0.5719
+Gannavaram,Negative,-0.5256
+Ganwaria Tulsipur,Positive,0.4215
+Garbeta,Positive,0.636
+Garh Kamalpur,Neutral,0.11315
+Garhwa,Positive,0.49740000000000006
+Garhwa District,Neutral,0.28559
+Gariaband District,Positive,0.5232
+Garshyamnagar,Neutral,0.24635
+Garulia,Neutral,0.0
+Gauripur,Neutral,0.0
+Gausganj,Positive,0.3182
+Gautam Buddh Nagar,Positive,0.6068333333333333
+Gautam Buddha Nagar,Negative,3.333333333332966e-05
+Gaya,Negative,-0.007141666666666713
+Gaya District,Positive,0.49715
+Geedam,Positive,0.4754
+Georai,Positive,0.4927
+Ghanaur,Positive,0.2716
+Gharghoda,Positive,0.6239
+Ghatal,Neutral,0.22020000000000003
+Ghatampur,Negative,-0.6696
+Ghatshila,Positive,0.2263
+Ghaziabad,Negative,-0.029085858585858566
+Ghazipur,Negative,0.08665294117647059
+Ghazipur District,Positive,0.37394999999999995
+Ghoghardiha,Positive,0.5859
+Ghoraberia,Negative,-0.4753
+Ghosi,Positive,0.633225
+Ghosia Bazar,Neutral,0.0
+Ghughuli,Positive,0.4215
+Ghulewadi,Positive,0.7269
+Giddaluru,Positive,0.2263
+Giridih,Neutral,0.0
+Giridih District,Positive,0.5005
+Goalpara,Positive,0.4917
+Goalpara District,Positive,0.636
+Gobardanga,Negative,0.02795000000000003
+Gobichettipalayam,Positive,0.4767
+Gobindpur,Positive,0.26198333333333335
+Godavarikhani,Positive,0.6696
+Godda,Positive,0.5473
+Godhra,Negative,-0.3348
+Gogipeth,Positive,0.2716
+Gohana,Negative,0.05436666666666665
+Gohpur,Positive,0.5707
+Gokak,Neutral,0.0
+Gola Gokarannath,Positive,0.4404
+Golaghat,Negative,-0.03900416666666667
+Golaghat District,Negative,0.010616666666666663
+Gomati District,Neutral,0.0
+Gomoh,Positive,0.6249
+Gonda,Neutral,0.2576807692307692
+Gonda District,Negative,0.05456666666666669
+Gondal,Positive,0.6249
+Gondiya,Positive,0.391625
+Gondiya District,Positive,0.4927
+Gooty,Neutral,0.0
+Gopalganj,Neutral,0.31245
+Gopalganj District,Neutral,0.2568285714285714
+Gorakhpur,Negative,0.0057044061302681985
+Gorakhpur Air Force Area Township,Positive,0.636
+Gorakhpur District,Neutral,0.27474583333333336
+Gorakhpur Division,Positive,0.48549999999999993
+Gorakhpur Sadar,Positive,0.47669999999999996
+Goregaon,Positive,0.2263
+Gosainganj Faizabad District,Positive,0.5719
+Greater Noida,Negative,-0.019471111111111106
+Gudivada Krishna District,Negative,-0.28078000000000003
+Gulbarga,Neutral,0.28625
+Gulbarga District,Negative,0.15329545454545454
+Gumla,Positive,0.4215
+Gumla District,Positive,0.6249
+Gummidipoondi,Positive,0.54405
+Guna,Positive,0.40715555555555555
+Guna District,Positive,0.61045
+Guntakal,Negative,-0.014339999999999936
+Guntur,Negative,0.06357111111111112
+Guntur District,Negative,-0.014228205128205143
+Gunupur,Positive,0.3252
+Gurdaspur,Positive,0.44040000000000007
+Gurdaspur District,Neutral,0.12221
+Gurgaon,Negative,-0.06487179487179488
+Gurgaon Division,Negative,-0.020449999999999968
+Gurugram,Negative,0.025306013071895412
+Guwahati,Negative,0.044058974358974344
+Gwalior,Neutral,0.2789235294117647
+Gyanpur,Positive,0.22630000000000003
+Habra,Negative,0.17645
+Hailakandi,Positive,0.6029
+Hajipur,Negative,0.021547222222222235
+Hajira,Negative,0.023150000000000004
+Haldaur,Positive,0.636
+Haldia,Positive,0.5578333333333333
+Haldibari,Negative,-0.6588
+Haldwani,Positive,0.555
+Hale Dharmapuri,Positive,0.2263
+Halisahar,Positive,0.5600999999999999
+Halkarni Midc,Positive,0.636
+Halol,Positive,0.5173428571428572
+Hamirgarh Growth Centre Riico,Positive,0.636
+Hamirpur,Negative,0.017966666666666648
+Hamirpur District,Positive,0.462
+Hanamkonda,Negative,-0.08205104166666663
+Handia,Positive,0.46373333333333333
+Handwara,Positive,0.6114
+Hansi,Neutral,0.31245
+Hanspura,Positive,0.6114
+Hanumangarh,Positive,0.4415
+Hanumangarh District,Positive,0.4404
+Haora,Positive,0.4215
+Haora District,Neutral,0.23878499999999997
+Hapur,Positive,0.6193545454545455
+Hapur District,Positive,0.36454
+Harda,Positive,0.6249
+Hardoi,Negative,-0.4767
+Hardoi District,Negative,-0.0247222222222222
+Harharia Chak,Positive,0.5983999999999999
+Haridwar,Negative,0.08717777777777778
+Harihar,Positive,0.5789
+Harina,Positive,0.5707
+Harindanga,Positive,0.6249
+Harirampur,Positive,0.5511
+Harnaut,Negative,-0.5256
+Harohalli Industrial Area,Negative,-0.44040000000000007
+Harraiya,Negative,0.00941000000000003
+Harur,Negative,-0.4228
+Haryana,Positive,0.6239
+Hassan,Negative,0.04965000000000003
+Hassan District,Positive,0.636
+Hastinapur,Negative,0.0413
+Hata,Neutral,0.11315
+Hathua,Positive,0.5859
+Hatta,Positive,0.4754
+Haveri District,Neutral,0.28882727272727277
+Hazaribagh,Neutral,0.25387857142857145
+Hazaribagh District,Neutral,0.23835
+Hazipur,Neutral,0.0
+Himmatnagar,Positive,0.44845
+Hindalco Industries Ltd,Positive,0.5859
+Hindusthan Cables Town,Positive,0.48168
+Hingalganj,Positive,0.6249
+Hinganghat,Positive,0.2716
+Hingna,Neutral,0.0
+Hingoli,Positive,0.2716
+Hingoli District,Neutral,0.0
+Hirakud,Positive,0.636
+Hiramandalam,Positive,0.6249
+Hiriyur,Positive,0.6239
+Hirmi,Positive,0.22630000000000003
+Hisar,Positive,0.3832333333333333
+Hisar District,Neutral,0.0
+Hisar Division,Negative,0.0741
+Hole Narsipur,Positive,0.4927
+Honavar,Neutral,0.0
+Hosapete,Positive,0.38621111111111106
+Hoshangabad District,Neutral,0.2128
+Hoshiarpur,Positive,0.5193
+Hoshiarpur District,Neutral,0.2970722222222222
+Hoskote,Positive,0.47971
+Hospet,Negative,-0.5423
+Hosur,Negative,-0.004839999999999993
+Howly,Positive,0.3182
+Howrah,Negative,-0.013495726495726501
+Hubballi,Neutral,0.2377
+Hubli,Negative,-0.5256
+Hugli Chinsurah,Neutral,0.27749999999999997
+Hugli District,Negative,-0.009420833333333342
+Hussainabad,Positive,0.4767
+Huzur Nagar,Positive,0.40164285714285713
+Huzurabad,Positive,0.5719
+Huzurnagar,Positive,0.22630000000000003
+Hyderabad,Negative,-0.0013015568506826725
+Ichalkaranji,Positive,0.51338
+Ichchapuram,Positive,0.4404
+Idar,Negative,-0.5423
+Idukki,Positive,0.6114
+Idukki District,Positive,0.42771428571428566
+Idukki Township,Positive,0.2263
+Ilayangudi,Positive,0.3735
+Ilkal,Positive,0.5859
+Indapur,Neutral,0.0
+Indapur Midc,Positive,0.4404
+India Cement Factory Chilamakuru,Positive,0.22630000000000003
+Indore,Negative,0.011048958333333303
+Indri,Negative,-0.25978
+Irba,Positive,0.5719
+Irikkur,Positive,0.5707
+Iringal,Positive,0.4404
+Iriveri,Positive,0.6114
+Islampur,Neutral,0.2563875
+Itanagar,Positive,0.5859
+Itwa,Positive,0.5323
+Jabalpur,Negative,-0.021379999999999993
+Jagadanandapur,Neutral,0.0
+Jagatsinghapur,Positive,0.3252
+Jagatsinghapur District,Negative,0.08662857142857142
+Jagatsinghpur,Positive,0.5927
+Jagdalpur,Positive,0.5588
+Jaggaiahpet,Positive,0.5707
+Jagraon,Negative,-0.5256
+Jagtaj,Positive,0.5719
+Jagtial,Positive,0.5612857142857143
+Jagtial District,Neutral,0.21550625
+Jahanabad,Positive,0.51478
+Jaijaipur,Positive,0.2716
+Jainoor,Positive,0.6249
+Jaintia Hills District,Positive,0.4404
+Jaipur,Negative,0.03162376811594203
+Jaipur District,Positive,0.46018
+Jaipur Division,Positive,0.512775
+Jaisalmer,Neutral,0.0
+Jaithari,Positive,0.4767
+Jajapur,Neutral,0.3057
+Jajapur District,Negative,0.21964615384615388
+Jajpur,Positive,0.5707
+Jajpur District,Positive,0.5859
+Jalalabad,Positive,0.587925
+Jalalabad Shahjahanpur District,Neutral,0.3348
+Jalalpur,Negative,-0.4228
+Jalandhar,Negative,0.07293125
+Jalandhar District,Positive,0.22630000000000003
+Jalandhar Division,Positive,0.5719
+Jalesar,Positive,0.46655
+Jalgaon,Positive,0.5532428571428571
+Jalgaon District,Negative,-0.158
+Jalgaon Jamod,Positive,0.6249
+Jalna,Negative,-0.4215
+Jalpaiguri,Positive,0.46855
+Jalpaiguri District,Negative,0.0012750000000000261
+Jalpaiguri Division,Positive,0.5707
+Jambusar,Positive,0.42175
+Jamkhandi,Positive,0.5707
+Jammalamadugu,Neutral,0.14645
+Jammu,Negative,0.06710476190476192
+Jammu District,Positive,0.5859
+Jamnagar,Neutral,0.25768636363636366
+Jamnagar District,Neutral,0.31245
+Jamshedpur,Negative,-0.032752525252525255
+Jamtara,Positive,0.5719
+Jamtara District,Neutral,0.20665
+Jamuhan,Positive,0.4404
+Jamui,Negative,0.039349999999999996
+Jamui District,Positive,0.610825
+Jangaon District,Neutral,0.31245
+Jangareddigudem,Positive,0.5719
+Jangipur,Neutral,0.2490375
+Janjgir,Positive,0.5055999999999999
+Janjgir Champa District,Positive,0.5387571428571428
+Jankibar,Positive,0.2263
+Jarod,Positive,0.4215
+Jasdan,Positive,0.4404
+Jashpur,Positive,0.6239
+Jaswantnagar,Positive,0.5859
+Jaunpur,Negative,-0.023236111111111107
+Jaunpur District,Negative,0.021505643738977065
+Jaya Shankar Bhalupally District,Negative,-0.1511
+Jaynagar Mazilpur,Neutral,0.24635
+Jehanabad,Positive,0.5719
+Jehanabad District,Negative,-0.018525000000000014
+Jetia,Negative,-0.5256
+Jeypur,Positive,0.2716
+Jhajjar,Neutral,0.31245
+Jhajjar District,Positive,0.5719
+Jhalda,Neutral,0.0
+Jhalod,Positive,0.6249
+Jhanjharpur,Positive,0.5719
+Jhansi,Negative,0.01866249999999997
+Jhansi Division,Positive,0.2716
+Jhargam District,Neutral,0.2703307692307692
+Jhargram,Negative,-0.0534
+Jharsuguda,Negative,0.04877857142857145
+Jharsuguda District,Neutral,0.1591
+Jhinjhak,Positive,0.4767
+Jhorhat,Positive,0.6249
+Jhumri Tilaiya,Positive,0.38034
+Jhunjhunu,Positive,0.47669999999999996
+Jhunjhunun,Positive,0.636
+Jhunjhunun District,Negative,-0.07314999999999999
+Jind,Positive,0.5036999999999999
+Jodhpur,Neutral,0.2823714285714286
+Jogipet,Negative,0.00880000000000003
+Jogulamba District,Positive,0.4767
+Jorhat,Neutral,0.11315
+Jorhat District,Positive,0.3864666666666667
+Joya,Positive,0.6249
+Joynagor,Positive,0.4404
+Jsw Steel Plant Township,Positive,0.6696
+Jugauli,Positive,0.44040000000000007
+Jugial,Neutral,0.0
+Jujarsaha,Neutral,0.0
+Junagadh,Positive,0.39063333333333333
+Junagadh District,Positive,0.587925
+Junagarh,Positive,0.2263
+Jutogh,Positive,0.6249
+Kachchh District,Positive,0.386875
+Kadannappalli,Positive,0.6249
+Kadapa,Negative,-0.02303333333333335
+Kadayampatti,Neutral,0.0
+Kadayanallur,Positive,0.6114
+Kadi,Negative,-0.04452142857142857
+Kadur,Positive,0.5719
+Kahalgaon,Negative,-0.3412
+Kailashahar,Positive,0.44040000000000007
+Kaimganj,Neutral,0.3027
+Kaimur Bhabua District,Neutral,0.27875
+Kairana,Positive,0.22630000000000003
+Kaithal,Neutral,0.2128
+Kakinada,Negative,-0.0038878787878787735
+Kakkur,Positive,0.5859
+Kalaburgi,Negative,0.02799666666666667
+Kalahandi,Negative,-0.01679999999999998
+Kalahandi District,Neutral,0.0
+Kalappanaickenpatti,Positive,0.5508
+Kalara,Positive,0.22630000000000003
+Kalavai,Neutral,0.0
+Kaliaganj,Neutral,0.27061666666666667
+Kaliapani,Positive,0.4215
+Kalimpong,Positive,0.636
+Kalimpong District,Negative,-0.5423
+Kalinga Nagar Industrial Area,Positive,0.5859
+Kalka,Negative,-0.47669999999999996
+Kallakkurichi,Positive,0.5707
+Kallakkurichi District,Neutral,0.0
+Kallelibhagom,Positive,0.5859
+Kalliyoor,Positive,0.5719
+Kallur Anantapur District,Positive,0.2716
+Kallur Thekkummuri,Negative,-0.44040000000000007
+Kallur Vadakkummuri,Positive,0.4404
+Kalmeshwar,Positive,0.6249
+Kalna,Negative,-0.09420833333333334
+Kalol Gandhinagar District,Positive,0.44040000000000007
+Kalpetta,Positive,0.22630000000000003
+Kalpi,Positive,0.4215
+Kaluvaya,Positive,0.4754
+Kalwan,Positive,0.44040000000000007
+Kalyan,Neutral,0.2063075
+Kalyandurg,Positive,0.7269
+Kalyani,Negative,0.005547222222222222
+Kamakshyanagar,Positive,0.47669999999999996
+Kamalganj,Positive,0.6249
+Kamareddy,Neutral,0.31245
+Kamareddy District,Negative,-0.022175
+Kamayagoundanpatti,Neutral,0.0
+Kambainallur,Negative,-0.4215
+Kambam,Neutral,0.0
+Kampur Town,Positive,0.4404
+Kamrup District,Negative,-0.010250000000000037
+Kamrup Metropolitan,Positive,0.2716
+Kamrup Metropolitan District,Positive,0.6239
+Kanakammachathram,Neutral,0.0
+Kanakapura,Positive,0.6249
+Kancheepuram District,Positive,0.4404
+Kanchipuram,Neutral,0.28891875
+Kanchrapara,Positive,0.5759
+Kandhamal,Positive,0.4404
+Kandi,Positive,0.64725
+Kandukur,Negative,-0.4753
+Kangeyam,Negative,0.06735000000000002
+Kangra,Positive,0.2592666666666667
+Kangra District,Neutral,0.24423333333333333
+Kangra Division,Positive,0.5232
+Kanhangad,Negative,-0.4753
+Kanina,Positive,0.6114
+Kanjikode Industrial Area,Neutral,0.0
+Kanjikoil,Neutral,0.0
+Kanjirappally,Positive,0.7269
+Kankipadu,Positive,0.636
+Kannad,Negative,0.03278333333333333
+Kannamangalam,Positive,0.4404
+Kannauj District,Neutral,0.23140714285714287
+Kanniyakumari District,Neutral,0.2834
+Kannur,Negative,0.015874999999999972
+Kannur District,Positive,0.337525
+Kanpur,Negative,0.016543143459915588
+Kanpur Dehat,Positive,0.2716
+Kanpur Dehat District,Positive,0.6249
+Kanpur Nagar,Positive,0.50555
+Kanpur Nagar District,Positive,0.6696
+Kantabanji,Positive,0.5859
+Kantanagar,Positive,0.5859
+Kanth Moradabad District,Neutral,0.0
+Kanti,Neutral,0.23569444444444443
+Kantilo,Positive,0.5707
+Kaptanganj,Negative,-0.011200000000000015
+Kapurthala,Negative,-0.4753
+Karad,Negative,-0.04259999999999994
+Karaikal,Negative,-0.1511
+Karanjia,Negative,-0.1511
+Karauli District,Positive,0.4404
+Karera,Positive,0.2716
+Kargahia Purab,Positive,0.6696
+Karimganj,Neutral,0.1869666666666667
+Karimganj District,Positive,0.58696
+Karimnagar,Neutral,0.31245
+Karimnagar District,Neutral,0.0
+Karimpur,Positive,0.6249
+Karjan,Positive,0.6106499999999999
+Karkal,Negative,-0.5423
+Karnal,Negative,0.12199285714285715
+Karoran,Neutral,0.0
+Karur,Positive,0.6114
+Karur District,Positive,0.6241857142857142
+Karwar,Negative,-0.21625000000000003
+Karwi,Positive,0.5719
+Kasaragod,Positive,0.50615
+Kasaragod District,Positive,0.5707
+Kasargod,Positive,0.5719
+Kasargode,Negative,-0.5423
+Kasba,Positive,0.6249
+Kasganj,Positive,0.6249
+Kashipur,Neutral,0.31195
+Katghar Lalganj,Neutral,0.0
+Kathua,Negative,0.04014999999999999
+Kathua District,Neutral,0.0
+Katihar,Neutral,0.18101
+Katihar District,Neutral,0.28263076923076924
+Katra Medniganj,Positive,0.4927
+Kattanam,Positive,0.6249
+Kattappana,Positive,0.4404
+Kattur,Positive,0.6249
+Katwa,Neutral,0.16976666666666665
+Kaushambi District,Positive,0.6249
+Kaveripattinam,Positive,0.5719
+Kedla,Positive,0.2263
+Keelakarai,Positive,0.6239
+Kelamangalam,Positive,0.636
+Kelambakkam,Positive,0.4215
+Kenda,Neutral,0.0
+Kendrapara District,Negative,-0.029083333333333322
+Kendua,Neutral,0.0
+Kendujhar District,Neutral,0.27592142857142854
+Kerur,Positive,0.5859
+Kesabpur,Positive,0.35992500000000005
+Keshod,Positive,0.5895666666666667
+Kesinga,Negative,0.11474999999999999
+Khadda,Positive,0.2263
+Khagaria,Negative,0.05210833333333329
+Khagaria District,Positive,0.6102
+Khairabad Mau District,Positive,0.4927
+Khalilabad,Neutral,0.25676
+Khamanon,Positive,0.636
+Khambhat,Neutral,0.0
+Khamgaon,Negative,-0.5256
+Khammam,Negative,-0.0516939393939394
+Khammam District,Positive,0.4888857142857143
+Khandala Satara,Positive,0.6696
+Khandwa,Positive,0.6249
+Khandwa East Nimar District,Neutral,0.0
+Kharagpur,Negative,0.008903030303030338
+Kharar,Positive,0.72125
+Khardaha,Neutral,0.0
+Khargone,Positive,0.43019999999999997
+Khargone West Nimar District,Positive,0.45855
+Khargupur,Positive,0.6249
+Khariar,Neutral,0.0
+Kharibari,Neutral,0.2202
+Kharkhoda,Positive,0.6239
+Khatauli,Positive,0.54182
+Khatima,Neutral,0.0
+Khed,Positive,0.6249
+Kheda,Negative,0.15793333333333334
+Kheda District,Neutral,0.0
+Khedbrahma,Positive,0.5719
+Kheri District,Neutral,0.19755909090909093
+Kheta Sarai,Positive,0.47669999999999996
+Khidirpur,Positive,0.5859
+Khopoli,Positive,0.425425
+Khordha District,Positive,0.5542125
+Khudaganj,Positive,0.5859
+Khunti,Positive,0.5719
+Khurja,Positive,0.5707
+Kichha,Neutral,0.0
+Kilapavoor,Neutral,0.0
+Kim,Positive,0.3991
+Kinathukadavu,Neutral,0.0
+Kiratpur,Positive,0.5719
+Kirnapur,Positive,0.5859
+Kishanganj,Positive,0.5018727272727272
+Kishangarhajmer,Negative,-0.4767
+Koch Bihar,Neutral,0.21480000000000002
+Koch Bihar District,Positive,0.583025
+Kochi,Neutral,0.21845333333333333
+Kochinda,Positive,0.636
+Kodad,Positive,0.62415
+Kodagu District,Positive,0.5859
+Kodala,Positive,0.614525
+Kodinar,Positive,0.6249
+Koduvally,Positive,0.7269
+Koilwar,Positive,0.4767
+Koipady,Positive,0.2263
+Kokrajhar,Negative,-0.07494999999999999
+Kokrajhar District,Positive,0.636
+Kolaghat,Positive,0.5464714285714286
+Kolar District,Positive,0.6227
+Kolasib,Positive,0.5719
+Kolathur,Positive,0.5019
+Kolhapur,Neutral,0.318
+Kolhapur District,Neutral,0.2619909090909091
+Kolkata,Negative,-0.0005369509043927634
+Kollam,Neutral,0.23109000000000002
+Kollam District,Neutral,0.2485681818181818
+Kollegal,Positive,0.6239
+Komaram Bheem Asifabad District,Negative,0.09378
+Kondagaon,Positive,0.4491
+Konkan Division,Negative,0.02303333333333335
+Konnagar,Positive,0.5511
+Koothappar,Positive,0.6249
+Koothattukulam,Positive,0.4927
+Koottilangadi,Positive,0.4215
+Koovappady,Neutral,0.3348
+Kopargaon,Positive,0.4754
+Koppa,Positive,0.6249
+Koppal District,Positive,0.40276666666666666
+Koradi,Positive,0.6239
+Koraput District,Positive,0.6249
+Korba,Neutral,0.2202
+Korba District,Positive,0.5495
+Koriya District,Positive,0.4754
+Kosamba,Positive,0.2716
+Kosi Kalan,Neutral,0.0
+Kota,Negative,-0.06373999999999998
+Kota District,Positive,0.5719
+Kotdwar,Positive,0.6249
+Kothagudem,Negative,0.009450000000000042
+Kothamangalam,Positive,0.6427799999999999
+Kottakal,Positive,0.44040000000000007
+Kottarakkara,Neutral,0.2611875
+Kottayam,Negative,-0.11718095238095237
+Kottayam District,Neutral,0.27415294117647054
+Kottuvally,Positive,0.5859
+Kovalam,Positive,0.44040000000000007
+Kovilpatti,Neutral,0.0
+Kovvur,Positive,0.7269
+Kozhikode,Negative,-0.035996296296296304
+Krishna,Positive,0.5066625
+Krishna District,Negative,-0.011175757575757561
+Krishnagar,Positive,0.4404
+Krishnagiri,Neutral,0.21075
+Krishnagiri District,Negative,-0.03165625
+Krishnanagar,Negative,-0.21075
+Kshidirpur,Negative,-0.2114
+Kshirpai,Negative,-0.1511
+Kud,Negative,-0.4215
+Kulathummal,Positive,0.6249
+Kulia,Neutral,0.0
+Kulithalai,Positive,0.6249
+Kullu,Positive,0.5731499999999999
+Kullu District,Positive,0.636
+Kullursandai,Positive,0.5719
+Kumarbagh,Positive,0.5508000000000001
+Kumarghat,Positive,0.636
+Kumbakonam,Negative,0.030116666666666708
+Kumily,Positive,0.6249
+Kumta,Positive,0.44040000000000007
+Kunda,Positive,0.5973
+Kundli,Neutral,0.0
+Kundli Industrial Area,Positive,0.453525
+Kunjabangarh,Positive,0.6249
+Kurara,Positive,0.4629
+Kurattissery,Positive,0.4404
+Kurnool,Negative,-0.018888888888888882
+Kurnool District,Negative,-0.015988888888888886
+Kurthi Jafarpur,Positive,0.6249
+Kurukshetra,Neutral,0.235775
+Kurukshetra District,Positive,0.6249
+Kushinagar District,Negative,-0.05588333333333331
+Kushinger,Positive,0.6239
+Kuthanallur,Positive,0.3252
+Kuthiathode,Positive,0.49269999999999997
+Kutiyana,Positive,0.2263
+Kuttiattoor,Neutral,0.21075
+Kuttippuram,Positive,0.4404
+Kyathampalle,Positive,0.4404
+Kymore,Positive,0.5859
+Ladhaura,Positive,0.44040000000000007
+Lahar,Positive,0.5549999999999999
+Laharpur,Neutral,0.0
+Lakheri,Neutral,0.0
+Lakhimpur,Positive,0.5019
+Lakhimpur District,Neutral,0.0
+Lakhisarai,Positive,0.5973
+Lakhisarai District,Positive,0.549490909090909
+Lakkampatti,Negative,-0.4404
+Laksar,Positive,0.6249
+Lalganj,Positive,0.6224142857142857
+Lalgudi,Neutral,0.0
+Lalitpur District,Positive,0.4754
+Lalkuan,Positive,0.44825000000000004
+Lanji,Positive,0.6239
+Lar,Negative,-0.6696
+Laskarpara,Positive,0.5719
+Latehar District,Positive,0.4767
+Lateri,Negative,-0.6588
+Latur,Neutral,0.0
+Latur District,Neutral,0.14883333333333335
+Lawar,Positive,0.6239
+Lawngtlai,Positive,0.5719
+Liluah,Positive,0.2716
+Limla,Positive,0.44040000000000007
+Lodhi Majra Industrial Area,Neutral,0.2202
+Lohardaga,Neutral,0.28535
+Lohardaga District,Negative,-0.4404
+Lonar,Negative,-0.5423
+Lonavala,Positive,0.5859
+Longleng,Positive,0.2716
+Longowal,Negative,-0.1511
+Loni,Neutral,0.2515846153846154
+Loni Kalbhor,Negative,-0.4228
+Lucknow,Negative,-0.012557454212454208
+Lucknow District,Positive,0.49227999999999994
+Lucknow Division,Positive,0.6245666666666666
+Ludhiana,Negative,-0.006763424518743677
+Ludhiana District,Neutral,0.0
+Lumding,Positive,0.22630000000000003
+Lunglei,Positive,0.4215
+Macherla,Negative,-0.5256
+Machhiwara,Positive,0.5719
+Machhlishahr,Positive,0.44040000000000007
+Machilipatnam,Neutral,0.3056388888888889
+Madanapalle,Neutral,0.2673
+Madanpur Rampur,Positive,0.5719
+Madaram Adilabad District,Positive,0.7269
+Madayi,Positive,0.47669999999999996
+Madha,Positive,0.636
+Madhepura,Negative,0.02123809523809524
+Madhepura District,Neutral,0.2551818181818182
+Madhira,Neutral,0.0
+Madhogarh,Positive,0.5859
+Madhubani,Neutral,0.2232772727272727
+Madhubani District,Negative,0.04398141025641026
+Madhupur,Neutral,0.0
+Madhurawada,Positive,0.45669999999999994
+Madhyamgram,Negative,-0.011594444444444463
+Madhyamgram..,Neutral,0.0
+Madukkarai,Positive,0.4754
+Madurai,Neutral,0.265675
+Madurai District,Positive,0.3921428571428572
+Maduranthakam,Positive,0.3182
+Mahaban,Neutral,0.0
+Mahabubabad,Neutral,0.2611444444444444
+Mahabubabad District,Positive,0.5984
+Mahad Midc,Neutral,0.0
+Mahadeb Nagar,Positive,0.2716
+Mahagma,Positive,0.49269999999999997
+Mahamaya Nagar District,Positive,0.636
+Maharajganj,Positive,0.4404
+Maharajpur,Positive,0.44040000000000007
+Mahboobnagar,Negative,-0.5256
+Mahbubnagar District,Neutral,0.0
+Mahemdabad,Positive,0.3182
+Mahendragarh District,Positive,0.44040000000000007
+Mahesana,Positive,0.515125
+Mahesana District,Negative,0.06325
+Maheshwaram,Positive,0.6249
+Mahimapur,Neutral,0.3057
+Mahindra World City,Neutral,0.0
+Mahmudabad,Positive,0.51315
+Mahnar Bazar,Neutral,0.0
+Mahoba,Positive,0.47669999999999996
+Maholi,Positive,0.54222
+Mahrajganj,Negative,-0.07236666666666668
+Mahrajganj District,Neutral,0.26711875
+Mahrajganj Mahrajganj District,Positive,0.6749999999999999
+Mahuva,Neutral,0.30610000000000004
+Maigal Ganj,Positive,0.51315
+Maihar,Negative,-0.5423
+Mainpuri District,Neutral,0.20304999999999998
+Mairwa,Positive,0.48423333333333335
+Majhihara,Positive,0.5859
+Majuli District,Positive,0.4754
+Makhdumpur,Positive,0.4215
+Makrana,Positive,0.5719
+Makronia Buzurg,Positive,0.4404
+Malappuram,Neutral,0.266325
+Malappuram District,Negative,-0.1511
+Malavalli,Positive,0.5859
+Malda,Neutral,0.2700666666666667
+Malda Division,Positive,0.5095875
+Maldah,Positive,0.5859
+Maldah District,Negative,0.0009988888888888825
+Malegaon,Positive,0.5719
+Malerkotla,Positive,0.6207750000000001
+Malhar,Positive,0.2263
+Malihabad,Positive,0.7269
+Malkangiri,Positive,0.6239
+Malkangiri District,Negative,-0.6696
+Malkapur,Positive,0.5719
+Malkapur Kolhapur District,Positive,0.6249
+Mallar,Neutral,0.0
+Malout,Negative,-0.4404
+Malugundapalli,Positive,0.5719
+Malur Industrial Area,Negative,-0.4753
+Manalur,Positive,0.5859
+Mananthavady,Positive,0.22630000000000003
+Manapparai,Positive,0.5859
+Manassery,Positive,0.44040000000000007
+Manbazar,Positive,0.3252
+Mancherial,Positive,0.683925
+Mancherial District,Neutral,0.29295
+Mandalgarh,Positive,0.2716
+Mandapeta,Neutral,0.1591
+Mandavalli,Neutral,0.0
+Mandi,Positive,0.5508714285714286
+Mandi District,Positive,0.5889857142857142
+Mandideep,Positive,0.3182
+Mandla,Positive,0.6249
+Mandla District,Positive,0.4256
+Mandleshwar,Neutral,0.0
+Mandsaur,Positive,0.5859
+Mandsaur District,Positive,0.636
+Mandya District,Neutral,0.0
+Manesar,Neutral,0.23027142857142854
+Mangalagiri,Positive,0.4754
+Mangaldoi,Positive,0.2263
+Mangalore,Negative,0.06330000000000002
+Mangaluru,Negative,-0.05278666666666665
+Manglaur,Negative,-0.5256
+Mangrol,Positive,0.53265
+Mangrulpir,Positive,0.507325
+Manikonda Jagir,Positive,0.6696
+Manikpur,Positive,0.4215
+Mankachar,Positive,0.5719
+Mannarkad,Positive,0.44040000000000007
+Manoharpur,Positive,0.6249
+Manugur,Positive,0.44040000000000007
+Manuguru,Negative,-0.4767
+Maraimalainagar,Positive,0.68815
+Mariani,Positive,0.2716
+Marigaon,Positive,0.4754
+Marthandam,Positive,0.6239
+Martur,Positive,0.4404
+Marudur,Positive,0.4767
+Masaurhi,Neutral,0.2202
+Mathabhanga,Positive,0.577725
+Matheran,Neutral,0.0
+Mathura,Positive,0.43346250000000003
+Mathurapur,Positive,0.4754
+Mattannur,Positive,0.4404
+Mau,Negative,-0.04280000000000003
+Mau District,Negative,-0.011265625000000001
+Maudaha,Positive,0.5719
+Maunath Bhanjan,Positive,0.43095
+Mauranipur,Positive,0.4215
+Mayiladuthurai,Negative,-0.45855
+Mayurbhanj,Positive,0.4404
+Mayurbhanj District,Negative,-0.037748571428571465
+Medak District,Negative,-0.6696
+Medinipur,Negative,-0.0009790476190475832
+Medinipur Division,Positive,0.4215
+Meerut,Negative,-0.024228857142857163
+Meerut District,Negative,-0.021135714285714258
+Meerut Division,Negative,-0.10919999999999999
+Mehandipur,Positive,0.5859
+Mehdawal,Positive,0.4767
+Mehkar,Positive,0.6239
+Mehmedabad,Positive,0.7269
+Mejia Thermal Power Township,Positive,0.44040000000000007
+Memari,Positive,0.48423333333333335
+Meppayyur,Positive,0.61165
+Metapally,Positive,0.6049
+Metpally,Positive,0.5859
+Mettur,Neutral,0.29295
+Mhasla,Positive,0.636
+Mhow,Positive,0.47669999999999996
+Mira Bhayandar,Negative,-0.05920624999999999
+Miranpur,Positive,0.22630000000000003
+Mirganj,Negative,-0.00861666666666668
+Miryalaguda,Negative,0.01815
+Mirzapur,Neutral,0.28390714285714286
+Mirzapur Cum Vindhyachal,Negative,0.002354999999999996
+Mirzapur District,Negative,-0.4753
+Modinagar,Positive,0.596325
+Moga,Positive,0.59565
+Mohali,Neutral,0.17382999999999998
+Mohammadabad Farrukhabad District,Positive,0.44040000000000007
+Mohammadabad Ghazipur District,Neutral,0.28595
+Molakalmuru,Positive,0.6249
+Moothakunnam,Positive,0.3252
+Mora,Positive,0.44040000000000007
+Moradabad,Negative,-0.02798205128205126
+Moradabad District,Positive,0.4404
+Moradabad Division,Positive,0.5719
+Moranhat,Neutral,0.23834999999999998
+Morbi,Neutral,0.17310454545454546
+Morbi District,Positive,0.6249
+Morigaon District,Positive,0.4404
+Morinda,Negative,-0.5256
+Morshi,Positive,0.636
+Motihari,Negative,0.003418518518518506
+Motipur,Positive,0.4215
+Mudalgi,Positive,0.4767
+Mudalipalayam Sidco,Positive,0.4215
+Muddebihal,Positive,0.516
+Mudhol,Positive,0.4927
+Mudkhed,Positive,0.5719
+Mughalsarai,Negative,-0.5256
+Muhammadabad,Positive,0.6696
+Muktainagar,Neutral,0.318
+Muktsar,Positive,0.47669999999999996
+Muktsar District,Neutral,0.0
+Mulugu,Negative,-0.27115
+Mulugu District,Neutral,0.2383875
+Mumbai,Negative,0.04225521176212421
+Mumbai Suburban,Negative,-0.10236999999999999
+Mummidivaram,Positive,0.3182
+Mundra,Positive,0.5719
+Mungaoli,Positive,0.6249
+Munger,Neutral,0.26715
+Munger District,Neutral,0.21452999999999997
+Munnar,Positive,0.4754
+Muradnagar,Positive,0.6239
+Murarai,Positive,0.636
+Muri,Neutral,0.0
+Murshidabad,Negative,0.011962500000000043
+Murshidabad District,Neutral,0.2315027027027027
+Murwara Katni,Positive,0.4404
+Musalgaon Midc,Positive,0.47669999999999996
+Musiri,Negative,-0.5423
+Mussoorie,Positive,0.4215
+Muthuthala,Positive,0.6696
+Muttukuru,Positive,0.7269
+Muvattupuzha,Negative,0.0615
+Muzaffarnagar,Negative,0.009886666666666674
+Muzaffarnagar District,Positive,0.5364375
+Muzaffarpur,Negative,0.07449642857142857
+Muzaffarpur District,Neutral,0.2633741935483871
+Mysore,Positive,0.5719
+Mysore District,Positive,0.4215
+Mysuru,Negative,0.0027125000000000066
+Nabadwip,Positive,0.41124
+Nabarangapur District,Positive,0.47396000000000005
+Nabha,Positive,0.636
+Nabinagar,Positive,0.5143
+Nadapuram,Positive,0.5707
+Nadia District,Negative,-0.003218750000000048
+Nadiad,Positive,0.383
+Naduvannur,Positive,0.5707
+Nagamalaipudukottai,Positive,0.7269
+Nagaon,Negative,0.01776666666666667
+Nagaon District,Positive,0.45855
+Nagapattinam,Positive,0.6249
+Nagapattinam District,Positive,0.2875666666666667
+Nagarkurnool,Positive,0.44040000000000007
+Nagaur,Positive,0.6249
+Nagaur District,Negative,-0.056052380952380944
+Nagercoil,Positive,0.43966666666666665
+Nagla,Positive,0.6249
+Nagpur,Neutral,0.24852857142857143
+Nahan,Positive,0.4661875
+Naharlagun,Positive,0.4767
+Naigaon,Negative,-0.6696
+Naihati,Positive,0.5504
+Nainital,Positive,0.6239
+Nainital District,Negative,-0.07555
+Najibabad,Negative,-0.10920000000000002
+Najibabd,Positive,0.6114
+Nakhatrana Gidc,Positive,0.5859
+Nakkapalle,Negative,-0.1706
+Nalagandla,Positive,0.4927
+Nalagarh,Positive,0.5160444444444444
+Nalanda District,Negative,0.011181250000000004
+Nalbari,Neutral,0.0
+Nalbari District,Positive,0.5622428571428572
+Nalco,Neutral,0.3348
+Nalgonda,Positive,0.43721428571428567
+Nalgonda District,Negative,-0.09264000000000003
+Nallur Kanniyakumari District,Negative,-0.4228
+Namakkal,Neutral,0.215485
+Namakkal District,Negative,0.08770000000000003
+Nambiyur,Positive,0.3252
+Nanakaramguda,Negative,-0.4215
+Nanauta,Neutral,0.0
+Nanded,Negative,0.02000384615384615
+Nanded District,Positive,0.356
+Nanded Waghala,Negative,0.02958500000000001
+Nandigama,Positive,0.5719
+Nandigram,Neutral,0.0
+Nandivaram Guduvancheri,Positive,0.53058
+Nandurbar District,Positive,0.6249
+Nandyal,Neutral,0.21163636363636365
+Nanjikottai,Positive,0.44040000000000007
+Nanpara,Neutral,0.29919999999999997
+Naraini,Negative,-0.5256
+Narasannapeta,Positive,0.6249
+Narasapur,Positive,0.4754
+Narasaraopet,Negative,-0.14776666666666666
+Narkatiaganj,Negative,-0.5423
+Narmada District,Positive,0.4767
+Narmadapuram Division,Positive,0.44040000000000007
+Narnaul,Positive,0.386875
+Narsampet,Positive,0.6249
+Narsimhapur District,Positive,0.5719
+Narsinghgarh,Neutral,0.0
+Narwana,Positive,0.6759
+Nashik,Negative,0.009893333333333346
+Nashik District,Positive,0.2716
+Nashik Division,Positive,0.7269
+Nasirabad,Neutral,0.0
+Nasiyanur,Negative,-0.6588
+Natchiarkoil,Positive,0.49269999999999997
+Natham,Positive,0.5719
+Naubatpur,Neutral,0.318
+Naudhia,Negative,-0.5256
+Nautanwa,Negative,-0.4404
+Navalur,Positive,0.6696
+Navi Mumbai,Negative,0.08301492374727666
+Navsari,Negative,-0.4215
+Navsari District,Positive,0.4767
+Nawada,Neutral,0.21520833333333333
+Nawada District,Neutral,0.11315
+Nayagarh,Negative,-0.14964999999999995
+Nayagarh District,Negative,0.08266666666666667
+Nayudupeta,Neutral,0.0
+Nazira,Positive,0.6114
+Nebadhai Duttapukur,Negative,-0.4404
+Nedumangad,Positive,0.5912599999999999
+Neem Ka Thana,Negative,0.02754999999999999
+Nellore,Negative,0.008269629629629627
+Neripperichal,Positive,0.5719
+New Barrackpur,Negative,0.07648333333333332
+New Delhi,Negative,0.007520426093514332
+New Mahe,Positive,0.2716
+New Town,Negative,0.009652000000000013
+Neyveli,Positive,0.5859
+Neyyattinkara,Positive,0.4215
+Nichlaul,Negative,0.04366
+Nidadavole,Negative,-0.6696
+Nilanga,Positive,0.5719
+Nirmal,Negative,0.00026666666666666505
+Nirmal District,Negative,-0.1511
+Nirsa,Negative,-0.07792499999999997
+Niz Hajo,Neutral,0.0
+Nizamabad,Positive,0.3947857142857143
+Nizamabad District,Negative,0.03015000000000001
+Noida,Negative,0.035326552706552695
+Nongstoin,Positive,0.5719
+North 24 Parganas,Negative,0.07298571428571426
+North Barrackpur,Positive,0.5394333333333333
+North Chotanagpur Division,Positive,0.4404
+North Goa District,Negative,0.0743
+North Guwahati,Positive,0.6249
+North Lakhimpur,Neutral,0.2881833333333333
+North Paravur,Positive,0.44040000000000007
+North Tripura,Positive,0.6114
+North Tripura District,Positive,0.6696
+North Twenty Four Parganas District,Negative,-0.031928888888888896
+North West Delhi,Negative,0.04829999999999998
+North West District,Positive,0.5719
+Nowshehra,Positive,0.3182
+Ntpc Dadri,Positive,0.5719
+Ntpc Kaniha Township,Positive,0.5719
+Ntpc Simhadri Township,Positive,0.4404
+Nuakhurigan,Negative,0.01479999999999998
+Nuapada District,Positive,0.636
+Numaligarh Refinery Township,Positive,0.5859
+Nuzvid,Neutral,0.22020000000000003
+Odagaon,Positive,0.6696
+Okni No 2,Positive,0.6239
+Olpad,Positive,0.5859
+Onda,Positive,0.6249
+Ongole,Neutral,0.27126249999999996
+Ooty,Positive,0.5719
+Oragadam Industrial Area,Negative,0.037599999999999995
+Orai,Neutral,0.17
+Othakadai,Positive,0.6696
+Othakalmandapam,Negative,-0.2114
+Ottappalam,Negative,0.021799999999999986
+Pachore,Negative,-0.09759999999999999
+Padappai,Positive,0.5859
+Paderu,Neutral,0.0
+Padmapur,Positive,0.5719
+Padrauna,Neutral,0.22020000000000003
+Paithan,Positive,0.5824
+Pala,Positive,0.2716
+Palacole,Positive,0.6696
+Palakkad,Neutral,0.3507
+Palakkad District,Negative,-0.04717499999999999
+Palakonda,Positive,0.6249
+Palamaner,Positive,0.4591
+Palamu,Negative,-0.4215
+Palamu District,Negative,0.041766666666666674
+Palani,Negative,-0.4753
+Palanpur,Positive,0.63156
+Palasa Kasibugga,Positive,0.4404
+Palghar,Positive,0.5719
+Palghar District,Positive,0.5859
+Pali District,Positive,0.4767
+Palitana,Positive,0.3182
+Palladam,Positive,0.4754
+Pallikkara,Neutral,0.0
+Pallikonda,Neutral,0.0
+Pallipalayam,Positive,0.5859
+Palwal,Positive,0.6249
+Palwancha,Positive,0.2263
+Pampalner,Positive,0.4767
+Panachikkad,Neutral,0.0
+Panadalam,Negative,-0.1511
+Panagudi,Positive,0.5719
+Panaji,Positive,0.5719
+Panchkula,Neutral,0.28595
+Panchla,Positive,0.4689666666666667
+Pandavapura,Positive,0.4404
+Panihati,Positive,0.6249
+Panipat,Negative,0.013358333333333305
+Panruti,Positive,0.6696
+Panskura,Negative,-0.1511
+Panvel,Positive,0.6114
+Paonta Sahib,Neutral,0.0
+Paradip,Positive,0.32646000000000003
+Paralakhemundi,Positive,0.5859
+Paramakudi,Positive,0.4767
+Paramathi,Positive,0.7269
+Paranda,Positive,0.6239
+Parappukkara,Positive,0.3252
+Parassala,Positive,0.6696
+Paratwada,Positive,0.7269
+Paravada Industrial Area,Neutral,0.3348
+Parbhani,Positive,0.7269
+Pardi,Positive,0.6246
+Pareo,Negative,-0.4767
+Pargi,Positive,0.7269
+Paria,Positive,0.6239
+Pariyaram,Positive,0.4404
+Parlakhemundi,Positive,0.5821285714285713
+Parli,Negative,-0.5256
+Parner,Positive,0.4215
+Parota,Positive,0.6249
+Parshioni,Positive,0.5719
+Parvathipuram,Positive,0.4404
+Parwanoo,Neutral,0.29295
+Paschim Medinipur District,Negative,-0.05886923076923075
+Pashchim Champaran District,Neutral,0.2566166666666667
+Pashchimi Singhbhum District,Negative,-0.22164999999999999
+Pasighat,Positive,0.34884
+Patan,Neutral,0.0
+Pataudi,Positive,0.5719
+Pathanamthitta,Positive,0.7269
+Pathanamthitta District,Positive,0.6155785714285714
+Pathankot,Positive,0.4927
+Pathankot District,Negative,-0.10705
+Pathapatnam,Neutral,0.0
+Pathar,Positive,0.6239
+Pathara,Negative,-0.5256
+Patharia,Positive,0.2716
+Pathri,Negative,0.1628
+Patiala,Neutral,0.292575
+Patiala District,Positive,0.6114
+Patiala Division,Negative,-0.07076666666666664
+Patna,Negative,0.02084265509482482
+Patna District,Negative,0.07696666666666667
+Patna Division,Positive,0.4082142857142857
+Patnagarh,Neutral,0.36345
+Pattamundai,Positive,0.5719
+Patti,Neutral,0.0
+Pattukkottai,Positive,0.4404
+Patuli,Positive,0.4404
+Patulia,Positive,0.4215
+Patur,Positive,0.6696
+Pauri,Positive,0.44040000000000007
+Pauri Garhwal,Negative,-0.4215
+Payakaraopeta,Positive,0.4404
+Pedatadepalli,Positive,0.2716
+Peddapalle District,Positive,0.53265
+Peddapuram,Negative,0.2285875
+Pen,Negative,0.06778000000000003
+Pentapadu,Positive,0.5859
+Perambalur District,Positive,0.2716
+Peringathur,Positive,0.6114
+Perinthalmanna,Positive,0.42510000000000003
+Periyakulam,Neutral,0.31245
+Pernampattu,Positive,0.6249
+Perumbavoor,Positive,0.50555
+Perundurai,Positive,0.22630000000000003
+Pethapur,Positive,0.5707
+Phagwara,Neutral,0.0
+Phalodi,Positive,0.6249
+Phaltan,Positive,0.49269999999999997
+Phulpur Allahabad District,Neutral,0.0
+Phusro,Neutral,0.0
+Pichhore Gwalior District,Positive,0.4754
+Pichhore Shivpuri District,Positive,0.4767
+Piduguralla,Positive,0.5859
+Pilani,Negative,-0.6588
+Pilibhit,Positive,0.5182714285714286
+Pilibhit District,Positive,0.7269
+Pilkhuwa,Neutral,0.28535
+Pimpri Chinchwad,Neutral,0.28650333333333333
+Pindwara,Positive,0.6114
+Pipar City,Positive,0.6249
+Pipariya,Neutral,0.29295
+Pipraich,Neutral,0.0
+Pipri,Positive,0.5859
+Pirayiri,Positive,0.5323
+Piro,Positive,0.636
+Pithampur,Positive,0.6249
+Pithoragarh,Neutral,0.0
+Podalakur,Positive,0.39965
+Pollachi,Negative,-0.4228
+Polur,Positive,0.5707
+Ponda,Positive,0.6029
+Pondicherry,Neutral,0.0
+Porbandar,Neutral,0.27540000000000003
+Porbandar District,Neutral,0.28595
+Port Blair,Positive,0.52525
+Prakasam,Negative,-0.4767
+Prakasam District,Negative,0.005640196078431359
+Pratapgarh,Negative,0.02976000000000001
+Pratapgarh District,Positive,0.47115454545454544
+Prattipadu,Positive,0.4404
+Prayagraj,Negative,0.049140833333333335
+Prayagraj Division,Positive,0.4927
+Presidency Division,Negative,-0.05184
+Proddatur,Negative,-0.0063499999999999945
+Puducherry,Negative,0.003216666666666664
+Puducherry District,Neutral,0.31245
+Pudukkottai,Negative,0.04965000000000003
+Pudukkottai District,Positive,0.6141
+Pujali,Positive,0.44040000000000007
+Pukhrayan,Negative,-0.15865000000000004
+Pulwama,Neutral,0.0
+Punalur,Positive,0.44040000000000007
+Pundri,Positive,0.5707
+Pune,Negative,-0.009186339869281043
+Pune District,Negative,0.03608333333333332
+Punjai Puliampatti,Positive,0.6249
+Punjaipuliampatti,Positive,0.658175
+Puranpur,Neutral,0.0
+Purba Bardhaman,Positive,0.3138
+Purba Bardhaman District,Neutral,0.24806964285714286
+Purba Champaran District,Negative,0.046044444444444464
+Purba Medinipur,Positive,0.6696
+Purba Medinipur District,Neutral,0.268115625
+Purbi Champaran District,Negative,-0.3412
+Purbi Singhbhum District,Negative,0.04495000000000001
+Purbo Medinipur District,Positive,0.5859
+Puri,Positive,0.3252
+Puri District,Neutral,0.19535625
+Purnia,Neutral,0.270175
+Purnia District,Neutral,0.2627441176470588
+Puruliya,Positive,0.49496249999999997
+Puruliya District,Negative,-0.0406704761904762
+Purusottampur,Negative,-0.018149999999999944
+Puthalam,Neutral,0.0
+Puthuppariyaram,Neutral,0.0
+Puthur,Neutral,0.0
+Puttaparthi,Positive,0.587025
+Puttur,Positive,0.47669999999999996
+Puvalur,Positive,0.2263
+Quepem,Neutral,0.0
+Raasi Cement Factory Wazirabad,Negative,-0.1511
+Radaur,Positive,0.5719
+Rae Bareli,Positive,0.521725
+Rae Bareli District,Neutral,0.2515071428571429
+Raghunathpur,Negative,-0.5256
+Raghunathpur Hugli District,Positive,0.4404
+Raghunathpur Puruliya District,Positive,0.4927
+Raha,Positive,0.5549999999999999
+Rahimatpur,Positive,0.6249
+Raichur,Negative,-0.02643999999999999
+Raichur District,Neutral,0.11315000000000001
+Raigad,Neutral,0.0
+Raiganj,Negative,-0.11752222222222222
+Raigarh,Negative,0.050263888888888886
+Raigarh District,Negative,0.01360588235294117
+Raipur,Negative,-0.01163000000000001
+Raipur District,Positive,0.44040000000000007
+Rairangpur,Positive,0.5859
+Raisen District,Positive,0.6249
+Raja Sansi,Positive,0.4767
+Rajagangapur,Positive,0.2716
+Rajahmundry,Neutral,0.22920333333333334
+Rajam,Positive,0.57142
+Rajanna Sircilla District,Positive,0.6860999999999999
+Rajauli,Neutral,0.0
+Rajgarh Churu District,Positive,0.22630000000000003
+Rajgarh District,Positive,0.45855
+Rajkot,Negative,0.0008661904761904834
+Rajkot District,Positive,0.59015
+Rajpur,Positive,0.6696
+Rajpur Bazar,Positive,0.6249
+Rajpur Sonarpur,Negative,0.07338000000000006
+Rajpura,Positive,0.3252
+Rajsamand,Negative,-0.1511
+Rajsamand District,Positive,0.22630000000000003
+Rajula,Neutral,0.31245
+Ramachandrapuram,Negative,-0.01814999999999997
+Ramagundam,Positive,0.5859
+Raman,Positive,0.5707
+Ramanagara,Positive,0.2263
+Ramanagara District,Positive,0.2263
+Ramanathapuram,Positive,0.32389999999999997
+Ramanathapuram District,Negative,-0.033966666666666645
+Ramannapeta,Positive,0.2716
+Ramban,Positive,0.22630000000000003
+Ramgarh,Positive,0.5707
+Ramgarh Cantonment Civil Township,Positive,0.2716
+Ramgarh District,Positive,0.3252
+Rampur,Negative,-0.41035
+Rampur Karkhana,Neutral,0.0
+Rampura Phul,Positive,0.4767
+Rampurhat,Negative,0.04359333333333334
+Ranaghat,Negative,-0.05451428571428568
+Ranbirsinghpora,Neutral,0.0
+Ranchi,Negative,0.03732753623188404
+Ranchi District,Positive,0.5859
+Ranebennur,Positive,0.6249
+Ranga Reddy,Negative,0.03877948717948718
+Rangabhita,Negative,-0.5423
+Rangapara,Positive,0.4767
+Rangareddy District,Negative,0.0
+Rangia,Positive,0.62682
+Raniganj,Positive,0.5707
+Ranipettai,Negative,0.08599166666666666
+Ranirbazar,Positive,0.3182
+Raniyan,Positive,0.44040000000000007
+Ranjangaon Midc,Positive,0.4767
+Rasra,Neutral,0.24635
+Rasulabad Kanpur Dehat District,Positive,0.5719
+Rath,Positive,0.5859
+Rati Ka Nagla Industrial Area,Positive,0.5719
+Ratlam,Neutral,0.0
+Ratlam District,Positive,0.44040000000000007
+Ratnagiri,Positive,0.43934999999999996
+Ratnagiri District,Positive,0.5434
+Rau,Negative,-0.10084999999999997
+Raxaul Bazar,Positive,0.6239
+Rayachoti,Negative,-0.009724999999999984
+Rayadurg,Positive,0.4927
+Rayagada,Neutral,0.23835
+Rayagada District,Neutral,0.29295
+Raybag,Positive,0.4754
+Razole,Positive,0.35476
+Reis Magos,Positive,0.4927
+Rengali,Negative,0.07200000000000001
+Reoti,Positive,0.4404
+Repalle,Negative,-0.08692499999999997
+Rewa,Positive,0.43899
+Rewari,Negative,0.039589999999999986
+Rewari District,Negative,-0.5423
+Riico Industrial Area Neemrana,Positive,0.61556
+Rishikesh,Positive,0.5624846153846155
+Rishra,Negative,-0.04792249999999998
+Robertsganj,Positive,0.5794714285714286
+Rohtak,Positive,0.5859
+Rohtak District,Positive,0.4404
+Rohtas District,Positive,0.581857142857143
+Roorkee,Negative,-0.016171111111111136
+Rosera,Positive,0.6696
+Rourkela,Negative,0.05648888888888889
+Rudayan,Positive,0.6249
+Rudraprayag District,Negative,-0.5423
+Rudrapur,Negative,0.013153846153846127
+Rudravaram,Negative,-0.4404
+Rupnagar,Positive,0.386875
+Rupnagar District,Negative,0.08354999999999999
+Sabar Kantha District,Neutral,0.0
+Sadat,Positive,0.5719
+Sadaura,Positive,0.6249
+Safidon,Neutral,0.0
+Sagalee,Positive,0.4767
+Sagar,Negative,-0.046599999999999975
+Sagar District,Positive,0.5243
+Sagwara,Neutral,0.0
+Saha,Positive,0.44040000000000007
+Saharanpur,Negative,-0.051481818181818184
+Saharsa,Positive,0.6135
+Saharsa District,Neutral,0.28535
+Sahatwar,Negative,-0.3412
+Sahebganj,Positive,0.5131
+Sahibganj,Neutral,0.3348
+Sahibganj District,Negative,-0.02479999999999999
+Saiha,Neutral,0.11315
+Sainthia,Neutral,0.31245
+Sakaldiha,Positive,0.5719
+Sakoli,Positive,0.5719
+Sakti,Positive,0.4215
+Salaya,Positive,0.6239
+Salem,Neutral,0.2450875
+Salem District,Negative,-0.016774999999999984
+Salempur,Positive,0.6114
+Saligram,Positive,0.6249
+Salon,Positive,0.6249
+Salpara Molandubi Pt 1,Neutral,0.0
+Samalkot,Negative,0.14185
+Samastipur,Negative,-0.021278787878787897
+Samastipur District,Neutral,0.25535454545454545
+Samba District,Negative,0.2369
+Sambalpur,Neutral,0.16792142857142858
+Sambalpur District,Positive,0.6114
+Sambhal,Negative,-0.0008249999999999924
+Sampla,Positive,0.5707
+Samrala,Positive,0.3182
+Samthar,Positive,0.4767
+Samudragarh,Positive,0.6249
+Sanand,Negative,0.14135
+Sanand Gidc,Positive,0.5136666666666666
+Sanawad,Neutral,0.0
+Sangamner,Negative,0.042325
+Sangareddy,Neutral,0.24634999999999999
+Sangareddy District,Neutral,0.23835
+Sangli District,Neutral,0.15545
+Sangli Miraj Kupwad,Neutral,0.23835
+Sangola,Neutral,0.0
+Sangrur,Positive,0.6696
+Sangrur District,Positive,0.6494
+Sanivarapupeta,Positive,0.5719
+Sankarankoil,Neutral,0.24635
+Sankari,Positive,0.5719
+Sankeshwar,Positive,0.45855
+Sankrail,Positive,0.6199749999999999
+Sanquelim,Neutral,0.0
+Sant Kabir Nagar,Positive,0.6011
+Sant Kabir Nagar District,Positive,0.6249
+Sant Ravidas Nagar Bhadohi District,Neutral,0.195675
+Santipur,Neutral,0.314975
+Santir Bazaar,Positive,0.636
+Santirbazar,Neutral,0.1591
+Sara Industrial Estate,Neutral,0.0
+Sarai Mir,Positive,0.4754
+Saran,Negative,0.024205555555555553
+Saran District,Negative,-0.01654408602150535
+Saranga,Positive,0.6696
+Saraon,Positive,0.47669999999999996
+Sardarshahar,Negative,-0.4215
+Sardhana,Neutral,0.0
+Sarni,Positive,0.5859
+Sarupathar,Positive,0.5719
+Sasaram,Positive,0.4396
+Satara,Positive,0.5707
+Satara District,Neutral,0.0
+Satghara,Positive,0.2263
+Sathupally,Positive,0.6249
+Satna,Neutral,0.0
+Satna District,Neutral,0.0
+Satrampadu,Positive,0.5707
+Satwas,Positive,0.4927
+Saurikh,Positive,0.6451749999999999
+Sawai Madhopur,Positive,0.5719
+Sawai Madhopur District,Positive,0.6249
+Secunderabad,Negative,0.03755299145299146
+Sehara,Positive,0.5719
+Sehore,Neutral,0.0
+Sehore District,Neutral,0.20396666666666666
+Seithur,Neutral,0.0
+Selaqui,Negative,-0.10920000000000002
+Semari,Positive,0.22630000000000003
+Seohara,Positive,0.6249
+Seoni Malwa,Neutral,0.31245
+Serampore,Positive,0.58515
+Shahabad,Positive,0.5393666666666667
+Shahabad Hardoi District,Positive,0.5859
+Shahada,Positive,0.636
+Shahbad,Positive,0.6249
+Shahdara,Positive,0.7269
+Shahdol,Negative,0.009866666666666654
+Shahdol District,Positive,0.3182
+Shahid Bhagat Singh Nagar District,Neutral,0.334575
+Shahjahanpur,Neutral,0.24601666666666666
+Shahjahanpur District,Positive,0.5169
+Shajapur,Positive,0.6239
+Shajapur District,Positive,0.4215
+Shamli,Positive,0.44040000000000007
+Shamshi Industrial Area,Neutral,0.0
+Shankargarh,Negative,-0.07555
+Sheikhpura,Negative,-0.1511
+Shendra Midc,Neutral,0.0
+Shenkottai,Neutral,0.0
+Sheohar,Positive,0.473275
+Sheohar District,Positive,0.5719
+Sheopur,Positive,0.3182
+Sheragada,Positive,0.6114
+Sherghati,Positive,0.2263
+Sherkot,Positive,0.44040000000000007
+Shevgaon,Positive,0.636
+Shikrapur,Positive,0.4404
+Shillong,Neutral,0.28448181818181817
+Shimla,Neutral,0.27926249999999997
+Shimla Division,Positive,0.5707
+Shimoga District,Negative,-0.4753
+Shirdi,Positive,0.47669999999999996
+Shirpur,Neutral,0.2880416666666667
+Shirur,Negative,0.06364999999999998
+Shirwal,Positive,0.6239
+Shivamogga,Positive,0.46855
+Shravanabelgola,Positive,0.6249
+Shrigonda,Positive,0.5719
+Shrirampur,Positive,0.5005
+Shrivardhan,Positive,0.6239
+Shujalpur,Neutral,0.0
+Siana,Negative,-0.6588
+Sibsagar,Positive,0.4215
+Sidco Bargur,Positive,0.4215
+Sidco Industrial Estate Jakkasandra,Positive,0.4404
+Sidcul Haridwar,Positive,0.53215
+Siddharthnagar District,Neutral,0.2202
+Siddhaur,Positive,0.4215
+Siddipet,Positive,0.5774
+Siddipet District,Positive,0.58635
+Sidhi,Positive,0.5719
+Sidhpur,Negative,-0.4753
+Sikanderpur Ballia District,Positive,0.2716
+Sikandra Rao,Positive,0.22630000000000003
+Sikar,Negative,0.02269999999999998
+Sikar District,Neutral,0.0
+Sikindra,Positive,0.7269
+Silapathar,Positive,0.4404
+Silchar,Neutral,0.24775000000000003
+Siliguri,Negative,0.03894166666666665
+Sillod,Positive,0.5719
+Silvassa,Positive,0.5719
+Simar Sir,Neutral,0.2202
+Simdega,Positive,0.6249
+Simga,Positive,0.4767
+Simlapal,Positive,0.4215
+Sindgi,Neutral,0.0
+Sindhnur,Positive,0.2716
+Singhesar Asthan,Positive,0.44040000000000007
+Singur,Negative,-0.22164999999999999
+Siolim,Positive,0.6249
+Sipcot Industrial Complex Pillaipakkam,Neutral,0.0
+Sipcot Perundurai,Positive,0.4215
+Sipcot Thervoy Kandigal,Positive,0.6249
+Sircilla,Negative,-0.03168500000000002
+Sirhind Fatehgarh Sahib,Positive,0.425425
+Sirkali,Positive,0.5859
+Sirohi,Neutral,0.0
+Sirohi District,Neutral,0.0
+Sirsa,Negative,-0.037766666666666636
+Sirsi,Positive,0.49785
+Sirugamani,Negative,-0.4215
+Sisauli,Negative,0.09495000000000003
+Siswa Bazar,Positive,0.2716
+Sitamarhi,Negative,0.023170833333333363
+Sitamarhi District,Positive,0.49165000000000003
+Sitapur,Negative,-0.07501904761904764
+Sitarganj,Positive,0.6239
+Sivaganga,Neutral,0.0
+Sivaganga District,Negative,-0.00630000000000001
+Sivakasi,Positive,0.47669999999999996
+Sivasagar District,Negative,0.019100000000000006
+Siwan,Negative,-0.08138461538461544
+Siwan District,Negative,-0.036936111111111135
+Solan District,Negative,-0.4215
+Solapur,Neutral,0.29634499999999997
+Solapur District,Positive,0.565288888888889
+Somandepalle,Positive,0.4404
+Somnath,Positive,0.4927
+Sompeta,Negative,-0.5423
+Somvarpet,Positive,0.5859
+Sonamukhi,Positive,0.4767
+Sonapur,Positive,0.4404
+Sonapur Gaon,Neutral,0.0
+Sonari,Neutral,0.0
+Sonatikiri,Negative,-0.4753
+Sonbhadra,Negative,0.026949999999999974
+Sonbhadra District,Positive,0.6696
+Sonepat,Positive,0.2263
+Sonepur,Neutral,0.23834999999999998
+Sonipat,Negative,0.13785
+Sonitpur District,Neutral,0.24634999999999999
+Sopore,Positive,0.2716
+South Delhi,Positive,0.486275
+South District,Positive,0.4927
+South Goa,Neutral,0.0
+South Goa District,Positive,0.5707
+South Tripura District,Positive,0.22630000000000003
+South Twenty Four Parganas District,Negative,-0.006217777777777785
+South West Delhi,Positive,0.44040000000000007
+Southern Division,Positive,0.5719
+Sri Ganganagar,Positive,0.41313333333333335
+Sri Potti Sriramulu Nellore District,Negative,-0.008515458937198109
+Sricity,Negative,-0.6696
+Srikakulam,Positive,0.5439
+Srikakulam District,Negative,0.04598703703703703
+Srinagar,Neutral,0.26149374999999997
+Sriperumbudur,Negative,-0.4767
+Sriramnagar,Positive,0.5859
+Srivilliputhur,Positive,0.3252
+Sualkuchi,Positive,0.5859
+Suar,Negative,-0.5256
+Subarnapur,Neutral,0.0
+Subarnapur District,Neutral,0.23834999999999998
+Sugauli,Neutral,0.0
+Sujangarh,Positive,0.4767
+Sullurpeta,Positive,0.6696
+Sulluru,Positive,0.2716
+Sullurupeta,Neutral,0.0
+Sultanpur,Negative,0.10935999999999998
+Sultanpur District,Neutral,0.25683
+Sulur,Positive,0.22630000000000003
+Sulya,Positive,0.7269
+Sundargarh District,Neutral,0.3207
+Sungrur,Positive,0.4754
+Sunnipenta,Positive,0.4215
+Supa Midc,Positive,0.4215
+Supaul,Positive,0.6069
+Supaul District,Positive,0.5503833333333333
+Surat,Negative,-0.010390555555555533
+Surat District,Positive,0.35729999999999995
+Suratgarh,Negative,0.24245
+Surendranagar District,Positive,0.6696
+Suri,Positive,0.6239
+Suryapet,Neutral,0.11315000000000001
+Swaimadhopur,Positive,0.6114
+T Narsipura,Positive,0.636
+Tadepalli,Neutral,0.0
+Tadepalligudem,Neutral,0.22895
+Tadipatri,Positive,0.4215
+Tadpatri,Neutral,0.28565
+Takhlibilar Pathar,Neutral,0.0
+Taki,Positive,0.636
+Takwe Industrial Area,Neutral,0.0
+Talaja,Positive,0.6249
+Talala,Positive,0.49269999999999997
+Talcher,Positive,0.44040000000000007
+Talcher Thermal Power Station Township,Positive,0.2716
+Taldi,Positive,0.5859
+Talegaon Dabhade,Positive,0.2716
+Taliparamba,Negative,-0.4404
+Talwandi Sabo,Positive,0.6239
+Tanakpur,Neutral,0.0
+Tangla,Positive,0.44040000000000007
+Tanuku,Neutral,0.22281500000000004
+Tapa,Positive,0.4215
+Tarakeswar,Negative,0.1258
+Tarn Taran District,Negative,-0.4753
+Tegheria,Positive,0.4404
+Teliamura,Positive,0.44040000000000007
+Telo,Positive,0.44040000000000007
+Tenali,Neutral,0.28535
+Tendukheda Damoh District,Positive,0.4215
+Tenkasi District,Negative,-0.03862272727272731
+Terdal,Neutral,0.29895
+Tezpur,Negative,-0.032799999999999996
+Thagarapuvalasa,Positive,0.6249
+Thakurdwara,Positive,0.4767
+Thakurganj,Positive,0.2263
+Thalassery,Neutral,0.21774374999999999
+Thane,Negative,0.002381666666666671
+Thane District,Negative,-0.014550000000000026
+Thanjavur,Positive,0.4727333333333333
+Thanjavur District,Positive,0.3093333333333333
+Thanneermukkam,Positive,0.636
+Theni Allinagaram,Neutral,0.0
+Theni District,Neutral,0.3348
+Thimmapur Karimnagar District,Positive,0.6114
+Thirukkattupalli,Positive,0.5719
+Thiruparappu,Positive,0.44040000000000007
+Thiruvallur,Positive,0.4767
+Thiruvallur District,Negative,-0.05665333333333333
+Thiruvananthapuram,Negative,0.038304000000000005
+Thiruvananthapuram District,Negative,0.0674875
+Thiruvarur,Neutral,0.0
+Thiruvarur District,Negative,-0.23765
+Thoothukkudi District,Negative,-0.4215
+Thrikkadavoor,Positive,0.4767
+Thrikkodithanam,Positive,0.2716
+Thrissur,Positive,0.5144636363636363
+Thrissur District,Neutral,0.23636
+Thuraiyur,Negative,-0.44040000000000007
+Thuthipattu,Positive,0.5707
+Tihu,Positive,0.4256
+Tindivanam,Neutral,0.0
+Tinsukia District,Neutral,0.30074999999999996
+Tirhut Division,Negative,-0.0348
+Tirora,Positive,0.4215
+Tiruchendur,Negative,0.021799999999999986
+Tiruchengode,Neutral,0.0
+Tiruchirappalli,Negative,-0.007323611111111128
+Tiruchirappalli District,Negative,-0.016455555555555557
+Tirunelveli,Negative,0.03655277777777777
+Tirunelveli District,Negative,-0.4767
+Tirupathur District,Neutral,0.2785
+Tirupati,Negative,0.07329722222222222
+Tiruppur,Negative,-0.003729074074074116
+Tiruppur  District,Positive,0.6249
+Tiruppur District,Negative,0.015131250000000013
+Tirupur,Positive,0.41695
+Tirur,Positive,0.39124
+Tiruttani,Positive,0.5859
+Tiruvallur,Positive,0.41197142857142854
+Tiruvannamalai,Positive,0.6696
+Tiruvannamalai District,Negative,-0.0069666666666666766
+Titabor Town,Neutral,0.0
+Tnpl Pugalur,Negative,-0.5256
+Torban,Positive,0.44040000000000007
+Trichy,Positive,0.5719
+Trikkur,Neutral,0.0
+Trivandrum,Neutral,0.1612875
+Tufanganj,Positive,0.6696
+Tuljapur,Positive,0.712575
+Tumakuru,Negative,0.03042499999999998
+Tumkur,Positive,0.2263
+Tumkur District,Positive,0.5707
+Tumsar,Neutral,0.0
+Tundla Kham,Positive,0.4404
+Tuni,Positive,0.6370333333333332
+Turkapally,Positive,0.6249
+Tusura,Positive,0.4215
+Tuticorin,Positive,0.5707
+Udaipur,Negative,-0.01941458333333333
+Udaipur District,Positive,0.5707
+Udaipur Division,Negative,0.0748
+Udalguri,Positive,0.5719
+Udgir,Positive,0.44040000000000007
+Udham Singh Nagar,Neutral,0.0
+Udham Singh Nagar District,Positive,0.47669999999999996
+Udhampur,Neutral,0.0
+Udhampur District,Positive,0.4215
+Udpura,Positive,0.4754
+Udumalpet,Positive,0.43115000000000003
+Udupi,Positive,0.3982
+Udupi District,Neutral,0.26215
+Ujhani,Positive,0.6249
+Ujjain,Negative,0.08178125000000003
+Ujjain District,Neutral,0.0
+Ukhra,Neutral,0.0
+Uklanamandi,Positive,0.6249
+Ultratech Cement Plant Rawan,Positive,0.636
+Uluberia,Neutral,0.29295
+Ulundurpet,Positive,0.5768
+Umargam,Positive,0.2263
+Umaria,Positive,0.46218000000000004
+Umarkhed,Positive,0.63156
+Una,Positive,0.5719
+Una District,Negative,-0.5256
+Unguturu,Positive,0.4927
+Unhel,Positive,0.2716
+Unnao,Negative,-0.08749999999999997
+Unnao District,Negative,0.08006666666666667
+Unokoti District,Positive,0.5719
+Upper Assam Division,Neutral,0.3057
+Upper Tadong,Positive,0.47626666666666667
+Uran Islampur,Positive,0.6249
+Usilampatti,Neutral,0.0
+Uthamapalayam,Positive,0.6249
+Uthukkoottai,Positive,0.2716
+Uthukuli,Positive,0.4215
+Utnur,Positive,0.32595
+Uttar Bagdogra,Neutral,0.2624375
+Uttar Dinajpur,Positive,0.59165
+Uttar Dinajpur District,Negative,0.013437179487179485
+Uttar Kusum,Neutral,0.0
+Uttar Latabari,Positive,0.5719
+Uttar Madarihat,Neutral,0.0
+Uttara Kannada District,Neutral,0.20272857142857142
+Uttarpara Kotrung,Positive,0.5482666666666667
+Vada,Positive,0.4767
+Vadakkekara,Neutral,0.0
+Vadakkumthala,Positive,0.4754
+Vadipatti,Positive,0.3252
+Vadodara,Negative,-0.002498518518518511
+Vadugapatti Theni District,Positive,0.2263
+Vaijapur,Positive,0.5719
+Vaishali,Positive,0.50615
+Vaishali District,Negative,-0.003376923076923074
+Valia,Positive,0.46218000000000004
+Valsad,Neutral,0.318
+Valsad District,Negative,-0.08844999999999997
+Vandavasi,Positive,0.4404
+Vaniyanbadi,Positive,0.36707999999999996
+Vanjipalayam,Positive,0.623475
+Vapi,Neutral,0.24613999999999997
+Varanasi,Negative,0.08867118279569892
+Varanasi District,Positive,0.47669999999999996
+Varigapalli,Negative,-0.5256
+Vasai Virar,Negative,0.01069444444444445
+Vashind,Negative,-0.6696
+Vathirairuppu,Positive,0.5719
+Vattappara,Positive,0.6249
+Vazhayur,Positive,0.44040000000000007
+Velampalayam,Neutral,0.0
+Velankanni,Positive,0.6249
+Vellore,Negative,-0.05286491228070175
+Vemulawada,Positive,0.2716
+Vengathur,Negative,-0.14964999999999995
+Veraval,Negative,-0.0321
+Veraval Rajkot District,Positive,0.6696
+Vicarabad,Positive,0.4404
+Vidisha,Neutral,0.15635
+Vidisha District,Positive,0.6696
+Vijaigarh,Positive,0.4754
+Vijapur,Positive,0.22630000000000003
+Vijapura,Negative,-0.022300000000000004
+Vijay Pore,Positive,0.7269
+Vijayapuri,Positive,0.44040000000000007
+Vijayawada,Negative,-0.003594999999999978
+Vikarabad,Negative,-0.3412
+Vikasnagar,Negative,-0.3412
+Vikramgad,Positive,0.4215
+Vilappil,Positive,0.2263
+Vilathikulam,Positive,0.5719
+Vilavoorkkal,Positive,0.5859
+Villupuram,Negative,-0.07924999999999999
+Viluppuram District,Neutral,0.186195
+Vindhya Nagar Ntpc Township,Negative,-0.14964999999999998
+Vinukonda,Positive,0.2263
+Virudhunagar,Neutral,0.21075
+Virudhunagar District,Positive,0.636
+Visakhapatnam,Negative,-0.019474712643678154
+Visakhapatnam District,Neutral,0.24008214285714286
+Vishakhapatnam,Neutral,0.0
+Visnagar,Negative,0.03015000000000001
+Vita,Neutral,0.0
+Vittal,Positive,0.6114
+Vizianagaram,Negative,0.07328333333333334
+Vizianagaram District,Positive,0.34331428571428574
+Vrindavan,Positive,0.47669999999999996
+W26,Positive,0.4404
+Wadi,Positive,0.47669999999999996
+Walajapet,Positive,0.5719
+Waluj Midc,Negative,-0.020374999999999976
+Wanaparthy,Positive,0.3252
+Wanaparthy District,Positive,0.44040000000000007
+Wani,Positive,0.5719
+Warangal,Negative,0.008487499999999981
+Warangal Rural District,Neutral,0.0
+Warangal Urban District,Neutral,0.0
+Wardha,Positive,0.45855
+Warora,Neutral,0.30798000000000003
+Washim,Positive,0.6249
+Washim District,Negative,0.25925
+Wayanad District,Neutral,0.2481375
+West Delhi,Positive,0.6239
+West Dinajpur,Neutral,0.0
+West District,Positive,0.47669999999999996
+West Garo Hills District,Positive,0.4404
+West Godavari,Negative,0.14558749999999998
+West Godavari District,Negative,-0.0016913580246913547
+West Karbi Anglong District,Neutral,0.0
+West Khasi Hills District,Positive,0.5719
+West Tripura,Positive,0.63322
+Williamnagar,Positive,0.45205
+Yadadri District,Negative,-0.1511
+Yadgir,Negative,0.0509
+Yamuna Nagar,Positive,0.4404
+Yamunanagar,Neutral,0.2568264705882353
+Yamunanagar District,Neutral,0.31195
+Yanam,Positive,0.22630000000000003
+Yari Pora,Positive,0.5859
+Yavatmal,Positive,0.22630000000000003
+Yavatmal District,Negative,0.0743
+Yellapur,Positive,0.2716
+Yemmiganur,Neutral,0.0
+Yol,Positive,0.59865
+Ysr District,Neutral,0.26757
+Zahirabad,Neutral,0.21075
+Zaidpur,Neutral,0.0
+Zamania,Positive,0.58785
